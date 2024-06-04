@@ -98,7 +98,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Newspaper',
+            label: 'Publications',
           },
           {
             type: 'localeDropdown',

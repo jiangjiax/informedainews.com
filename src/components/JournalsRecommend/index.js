@@ -72,7 +72,7 @@ function Feature({Svg, title, href, description}) {
 export default function HomepageFeatures() {
   return (
     <section className="pt-8 pb-8 bg-zinc-100 dark:bg-zinc-900">
-      <h2 className="text-center text-3xl font-bold text-gray-900 dark:text-gray-100 pb-3"><Translate>publications</Translate></h2>
+      <h2 className="text-center text-3xl font-bold text-gray-900 dark:text-gray-100 pb-3"><Translate>Publications</Translate></h2>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (

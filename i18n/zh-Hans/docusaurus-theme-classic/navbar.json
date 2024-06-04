@@ -7,9 +7,9 @@
     "message": "Informed AI News Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Newspaper": {
+  "item.label.Publications": {
     "message": "刊物",
-    "description": "Navbar item with label Newspaper"
+    "description": "Navbar item with label Publications"
   },
   "item.label.FAQ": {
     "message": "FAQ",
