@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.World News Daily": {
+    "message": "世界新闻日报",
+    "description": "The label for category World News Daily in sidebar tutorialSidebar"
+  }
+}

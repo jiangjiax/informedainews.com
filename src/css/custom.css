@@ -1,0 +1,32 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #004884; /* Deep Blue */
+  --ifm-color-primary-dark: #003a6b; /* Darker Blue */
+  --ifm-color-primary-darker: #002f54; /* Darkest Blue */
+  --ifm-color-primary-darkest: #001e33; /* Darkest Blue */
+  --ifm-color-primary-light: #005faa; /* Lighter Blue */
+  --ifm-color-primary-lighter: #0077c8; /* Lighter Blue */
+  --ifm-color-primary-lightest: #009ed1; /* Lightest Blue */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #0078d4; /* Lighter Blue in Dark Mode */
+  --ifm-color-primary-dark: #0069ac; /* Darker Blue in Dark Mode */
+  --ifm-color-primary-darker: #005288; /* Darkest Blue in Dark Mode */
+  --ifm-color-primary-darkest: #003b63; /* Darkest Blue in Dark Mode */
+  --ifm-color-primary-light: #0096e2; /* Lighter Blue in Dark Mode */
+  --ifm-color-primary-lighter: #00b4f2; /* Lighter Blue in Dark Mode */
+  --ifm-color-primary-lightest: #00cce4; /* Lightest Blue in Dark Mode */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
