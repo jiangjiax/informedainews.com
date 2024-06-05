@@ -103,11 +103,11 @@ const config = {
           },
           {to: '/#faq', label: 'FAQ', position: 'right'},
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/jiangjiax/informedainews.com',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -139,7 +139,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/jiangjiax',
+                href: 'https://github.com/jiangjiax/informedainews.com',
               },
             ],
           },
