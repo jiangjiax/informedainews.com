@@ -9,7 +9,7 @@ import styles from './index.module.css';
 import Heading from '@theme/Heading';
 
 const IndexTitle =translate({
-  message: 'AI-Curated, Selected publications',
+  message: 'AI-Curated, Informed Choices',
 })
 
 const tagline = translate({
@@ -22,7 +22,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="md:text-5xl bg-gradient-to-r from-green-300 via-white-300 to-red-300 bg-clip-text font-extrabold text-transparent sm:text-4xl">
-          <Translate>AI-Curated, Selected publications</Translate>
+          <Translate>AI-Curated, Informed Choices</Translate>
         </Heading>
         <p className="md:text-xl sm:text-base">{tagline}</p>
         <div className={styles.buttons}>
