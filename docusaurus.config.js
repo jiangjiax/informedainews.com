@@ -34,7 +34,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jiangjiax', // Usually your GitHub org/user name.
-  projectName: 'InformedAINews', // Usually your repo name.
+  projectName: 'InformedAINews.com', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -61,7 +61,6 @@ const config = {
           async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
             const sidebarItems = await defaultSidebarItemsGenerator(args);
             return reverseSidebarItems(sidebarItems);
-            return sidebarItems;
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -77,6 +76,10 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        gtag: {
+          trackingID: 'G-48P8MMKF9P',
+          anonymizeIP: true,
         },
       }),
     ]
