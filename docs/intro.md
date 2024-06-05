@@ -12,7 +12,9 @@ Hello, I'm Jiang.
 
 In an age of information overload, we can easily access a large amount of information, but we also face the risk of being overwhelmed by irrelevant information, which could waste our precious time.
 
-I believe that in today's, efficiently acquiring accurate, valuable information is of utmost importance. Therefore, I have built the website "Informed AI News", with the mission to provide you with curated and easily understandable news content through AI technology, to help you easily grasp important dynamics in a busy life. To eliminate information asymmetry and break through the limits of information cocoons.
+I believe that in the current context, the efficient acquisition of accurate and valuable information, the elimination of information gap, and the breakthrough of information cocoon limitations are still important issues.
+
+Therefore, I have built the website "Informed AI News", with the mission to provide you with curated and easily understandable news content through AI technology, to help you easily grasp important dynamics in a busy life.
 
 In short, Informed AI News is an information aggregation platform. Every day, it evaluates more than 2000+ of the latest news across multiple dimensions, selects the most relevant and valuable information, generates concise summaries for each article, and compiles these curated pieces into corresponding daily, weekly, and other publications.
 
