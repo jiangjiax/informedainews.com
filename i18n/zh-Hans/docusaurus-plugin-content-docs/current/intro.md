@@ -44,7 +44,7 @@ width="500"
 ### 科技迷日报
 
 科技迷日报是一个专注于科技领域的日报，旨在为科技爱好者提供最新的科技新闻、趋势分析和深度报道。它涵盖人工智能、互联网、移动设备、软件开发等多个方面，帮助读者了解科技领域的最新动态和未来发展。科技迷日报致力于提供有深度、有见地的科技信息，让读者能够紧跟科技发展的步伐。
-[Read More >>](/docs/world-news-daily)
+[Read More >>](/docs/tech-enthusiast-daily)
 
 <img
 src={require('@site/static/img/techfan.jpeg').default}
@@ -55,7 +55,7 @@ width="500"
 ### AI迷日报
 
 AI迷日报是一个专注于人工智能领域的日报，旨在为AI爱好者提供最新的人工智能新闻、技术进展和行业洞察。它涵盖机器学习、深度学习、自然语言处理等多个子领域，帮助读者了解人工智能的最新动态和未来趋势。AI迷日报致力于提供有深度、有见地的人工智能信息，让读者能够深入了解人工智能的发展和应用。
-[Read More >>](/docs/world-news-daily)
+[Read More >>](/docs/ai-enthusiast-daily)
 
 <img
 src={require('@site/static/img/aifan.jpeg').default}

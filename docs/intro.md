@@ -46,7 +46,7 @@ width="500"
 ### Tech Enthusiast Daily
 
 Tech Enthusiast Daily is a specialized tech daily, dedicated to providing the latest tech news, trend analysis, and in-depth reports on the tech industry. It covers a variety of areas including artificial intelligence, the internet, mobile devices, software development, and more, helping readers stay updated on the latest developments in the tech field. Tech Enthusiast Daily aims to provide in-depth, insightful tech information to keep readers informed about the latest trends and future directions in the tech industry.
-[Read More >>](/docs/world-news-daily)
+[Read More >>](/docs/tech-enthusiast-daily)
 
 <img
 src={require('@site/static/img/techfan.jpeg').default}
@@ -57,7 +57,7 @@ width="500"
 ### AI Enthusiast Daily
 
 AI Enthusiast Daily is a specialized AI daily, dedicated to providing the latest AI news, technological advancements, and industry insights. It covers a range of sub-fields including machine learning, deep learning, natural language processing, and more, helping readers understand the latest developments in the AI field. AI Enthusiast Daily aims to provide in-depth, insightful AI information to keep readers informed about the latest advancements and applications in the AI field.
-[Read More >>](/docs/world-news-daily)
+[Read More >>](/docs/ai-enthusiast-daily)
 
 <img
 src={require('@site/static/img/aifan.jpeg').default}

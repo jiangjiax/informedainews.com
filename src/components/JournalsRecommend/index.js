@@ -17,7 +17,7 @@ const FeatureList = [
   {
     title: <Translate id="news.title2">Tech Enthusiast Daily</Translate>,
     Svg: require('@site/static/img/techfan.jpeg').default,
-    href: '/docs/world-news-daily',
+    href: '/docs/tech-enthusiast-daily',
     description: (
       <>
         <Translate id="news.description2">Tech Enthusiast Daily is a daily publication dedicated to the tech realm, designed to offer tech enthusiasts the latest tech news, trend analysis, and in-depth reports. It covers various aspects such as artificial intelligence, internet, mobile devices, software development, and more, assisting readers in understanding the latest dynamics and future developments in the tech field. Tech Enthusiast Daily is dedicated to providing deep, insightful tech information, allowing readers to keep pace with the advancements in technology.</Translate>
@@ -27,7 +27,7 @@ const FeatureList = [
   {
     title: <Translate id="news.title3">AI Enthusiast Daily</Translate>,
     Svg: require('@site/static/img/aifan.jpeg').default,
-    href: '/docs/world-news-daily',
+    href: '/docs/ai-enthusiast-daily',
     description: (
       <>
         <Translate id="news.description3">AI Enthusiast Daily is a daily publication focused on the field of artificial intelligence, intended for AI enthusiasts to provide the latest AI news, technological advancements, and industry insights. It covers subfields such as machine learning, deep learning, natural language processing, and more, helping readers understand the latest developments and future trends in artificial intelligence. AI Enthusiast Daily is committed to delivering deep, insightful AI information, enabling readers to gain a profound understanding of the development and application of artificial intelligence.</Translate>
