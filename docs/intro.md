@@ -29,9 +29,7 @@ The evaluation of information uses an 8-point scale, with the following existing
 - Rationality: Evaluating whether the content of the article is logical.
 - Depth of Thought: Assessing the depth of thought in the information, and its contribution to any intellectual field.
 
-The scoring is weighted; for example, in the toolbox section, Practicality would receive a higher weight.
-
-The “Scores” displayed below each piece of information in the publication allow access to the detailed scoring and explanations of the AI's scoring.
+The scoring is weighted; for example, in the toolbox section, Practicality would receive a higher weight.The “Scores” displayed below each piece of information in the publication allow access to the detailed scoring and explanations of the AI's scoring.
 
 These AI-Curated publications will cover multiple fields, including politics, economics, technology, health, and AI, to meet the needs of different users. The number and variety of publications will also gradually increase.
 
