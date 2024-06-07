@@ -43,7 +43,7 @@ const FeatureList = [
         <Translate id="faq.desc5">You can contact us via email or social media (details can be found in the footer of the page), and we will respond to your questions as soon as possible.</Translate>
       </>
     ),
-  },
+  }
 ];
 
 function Feature({title, description}) {
