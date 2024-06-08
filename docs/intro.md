@@ -10,9 +10,7 @@ slug: /guides
 
 Hello, I'm Jiang.
 
-In an age of information overload, we can easily access a large amount of information, but we also face the risk of being overwhelmed by irrelevant information, which could waste our precious time.
-
-I believe that in the current context, the efficient acquisition of accurate and valuable information, the elimination of information gap, and the breakthrough of information cocoon limitations are still important issues.
+In an age of information overload, we can easily access a large amount of information, but we also face the risk of being overwhelmed by irrelevant information, which could waste our precious time.I believe that in the current context, the efficient acquisition of accurate and valuable information, the elimination of information gap, and the breakthrough of information cocoon limitations are still important issues.
 
 Therefore, I have built the website "Informed AI News", with the mission to provide you with curated and easily understandable news content through AI technology, to help you easily grasp important dynamics in a busy life.
 
@@ -29,7 +27,7 @@ The evaluation of information uses an 8-point scale, with the following existing
 - Rationality: Evaluating whether the content of the article is logical.
 - Depth of Thought: Assessing the depth of thought in the information, and its contribution to any intellectual field.
 
-The scoring is weighted; for example, in the toolbox section, Practicality would receive a higher weight.The “Scores” displayed below each piece of information in the publication allow access to the detailed scoring and explanations of the AI's scoring.
+The scoring is weighted; for example, in the toolbox section, Practicality would receive a higher weight. The “Scores” displayed below each piece of information in the publication allow access to the detailed scoring and explanations of the AI's scoring.
 
 These AI-Curated publications will cover multiple fields, including politics, economics, technology, health, and AI, to meet the needs of different users. The number and variety of publications will also gradually increase.
 
