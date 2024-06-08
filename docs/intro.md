@@ -12,7 +12,7 @@ Hello, I'm Jiang.
 
 In an era of information overload, we have easy access to vast amounts of data, yet we also risk drowning in irrelevant noise, wasting our valuable time. I firmly believe that in today's context, the efficient acquisition of accurate and valuable information, the reduction of information gaps, and the breaking of information cocoon limitations remain crucial challenges.
 
-To address this, I have developed the website "Informed AI News," dedicated to delivering curated, easily digestible news content through AI technology, enabling you to effortlessly stay abreast of significant developments amidst a busy life.
+To address this, I have developed the website "Informed AI News", dedicated to delivering curated, easily digestible news content through AI technology, enabling you to effortlessly stay abreast of significant developments amidst a busy life.
 
 In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the most pertinent and valuable information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
 
