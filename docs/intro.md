@@ -10,13 +10,13 @@ slug: /guides
 
 Hello, I'm Jiang.
 
-In an age of information overload, we can easily access a large amount of information, but we also face the risk of being overwhelmed by irrelevant information, which could waste our precious time.I believe that in the current context, the efficient acquisition of accurate and valuable information, the elimination of information gap, and the breakthrough of information cocoon limitations are still important issues.
+In an era of information overload, we have easy access to vast amounts of data, yet we also risk drowning in irrelevant noise, wasting our valuable time. I firmly believe that in today's context, the efficient acquisition of accurate and valuable information, the reduction of information gaps, and the breaking of information cocoon limitations remain crucial challenges.
 
-Therefore, I have built the website "Informed AI News", with the mission to provide you with curated and easily understandable news content through AI technology, to help you easily grasp important dynamics in a busy life.
+To address this, I have developed the website "Informed AI News," dedicated to delivering curated, easily digestible news content through AI technology, enabling you to effortlessly stay abreast of significant developments amidst a busy life.
 
-In short, Informed AI News is an information aggregation platform. Every day, it evaluates more than 2000+ of the latest news across multiple dimensions, selects the most relevant and valuable information, generates concise summaries for each article, and compiles these curated pieces into corresponding daily, weekly, and other publications.
+In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the most pertinent and valuable information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
 
-The evaluation of information uses an 8-point scale, with the following existing scoring factors:
+The information evaluation process employs an 8-point scale, with the following scoring factors:
 
 - Objectivity: Assessing whether the information is fair and unbiased.
 - Social Impact: The extent of the information's impact on society and the public.
@@ -27,9 +27,9 @@ The evaluation of information uses an 8-point scale, with the following existing
 - Rationality: Evaluating whether the content of the article is logical.
 - Depth of Thought: Assessing the depth of thought in the information, and its contribution to any intellectual field.
 
-The scoring is weighted; for example, in the toolbox section, Practicality would receive a higher weight. The “Scores” displayed below each piece of information in the publication allow access to the detailed scoring and explanations of the AI's scoring.
+The scoring is weighted; for instance, in the toolbox section, Practicality is given greater emphasis. The "Scores" displayed beneath each piece of information in the publication provide access to the AI's detailed scoring and explanations.
 
-These AI-Curated publications will cover multiple fields, including politics, economics, technology, health, and AI, to meet the needs of different users. The number and variety of publications will also gradually increase.
+These AI-curated publications will span multiple domains, including politics, economics, technology, health, and AI, catering to the diverse needs of our users. The range and variety of publications will continue to expand.
 
 If you have any questions or suggestions, feel free to contact me. I will read all readers emails and messages carefully and strive to improve Informed AI News.
 
