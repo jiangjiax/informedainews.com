@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 title: World News Daily
-description: World News Daily is a comprehensive international news daily aimed at providing global perspective news coverage. It encompasses politics, economy, society, entertainment, technology, health, sports, and more, helping readers understand the latest developments and events around the world. World News Daily is committed to delivering objective and accurate information, enabling readers to better comprehend global affairs.
+description: World News Daily is a comprehensive international news daily, dedicated to providing global perspective news coverage. It covers a wide range of topics including politics, economics, society, entertainment, technology, health, and sports, helping readers understand the latest developments and events around the world. Daily Release.
 slug: /world-news-daily
 ---
 
@@ -11,7 +11,7 @@ slug: /world-news-daily
   width="100%"
 />
 
-World News Daily is a comprehensive international news daily aimed at providing global perspective news coverage. It encompasses politics, economy, society, entertainment, technology, health, sports, and more, helping readers understand the latest developments and events around the world. World News Daily is committed to delivering objective and accurate information, enabling readers to better comprehend global affairs.
+World News Daily is a comprehensive international news daily, dedicated to providing global perspective news coverage. It covers a wide range of topics including politics, economics, society, entertainment, technology, health, and sports, helping readers understand the latest developments and events around the world. Daily Release.
 
 import DocCardList from '@theme/DocCardList';
 

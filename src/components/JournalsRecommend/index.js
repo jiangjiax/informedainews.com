@@ -10,7 +10,7 @@ const FeatureList = [
     href: '/docs/world-news-daily',
     description: (
       <>
-        <Translate id="news.description1">World News Daily is a comprehensive international news daily aimed at providing global perspective news coverage. It encompasses politics, economy, society, entertainment, technology, health, sports, and more, helping readers understand the latest developments and events around the world. World News Daily is committed to delivering objective and accurate information, enabling readers to better comprehend global affairs.</Translate>
+        <Translate id="news.description1">World News Daily is a comprehensive international news daily, dedicated to providing global perspective news coverage. It covers a wide range of topics including politics, economics, society, entertainment, technology, health, and sports, helping readers understand the latest developments and events around the world. Daily Release.</Translate>
       </>
     ),
   },
@@ -20,7 +20,7 @@ const FeatureList = [
     href: '/docs/tech-enthusiast-daily',
     description: (
       <>
-        <Translate id="news.description2">Tech Enthusiast Daily is a daily publication dedicated to the tech realm, designed to offer tech enthusiasts the latest tech news, trend analysis, and in-depth reports. It covers various aspects such as artificial intelligence, internet, mobile devices, software development, and more, assisting readers in understanding the latest dynamics and future developments in the tech field. Tech Enthusiast Daily is dedicated to providing deep, insightful tech information, allowing readers to keep pace with the advancements in technology.</Translate>
+        <Translate id="news.description2">Tech Enthusiast Daily is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Daily Release.</Translate>
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
     href: '/docs/ai-enthusiast-daily',
     description: (
       <>
-        <Translate id="news.description3">AI Enthusiast Daily is a daily publication focused on the field of artificial intelligence, intended for AI enthusiasts to provide the latest AI news, technological advancements, and industry insights. It covers subfields such as machine learning, deep learning, natural language processing, and more, helping readers understand the latest developments and future trends in artificial intelligence. AI Enthusiast Daily is committed to delivering deep, insightful AI information, enabling readers to gain a profound understanding of the development and application of artificial intelligence.</Translate>
+        <Translate id="news.description3">AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.</Translate>
       </>
     ),
   },

@@ -16,19 +16,6 @@ To address this, I have developed the website "Informed AI News", dedicated to d
 
 In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the most pertinent and valuable information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
 
-The information evaluation process employs an 8-point scale, with the following scoring factors:
-
-- Objectivity: Assessing whether the information is fair and unbiased.
-- Social Impact: The extent of the information's impact on society and the public.
-- Credibility: The trustworthiness of the information source (for example, well-known media like the BBC are considered to have higher credibility).
-- Potential: The potential for the information to trigger further events or changes.
-- Practicality: The operability of the information for readers in practical applications.
-- Entertainment Value: Assessing the entertainment value of the information.
-- Rationality: Evaluating whether the content of the article is logical.
-- Depth of Thought: Assessing the depth of thought in the information, and its contribution to any intellectual field.
-
-The scoring is weighted; for instance, in the toolbox section, Practicality is given greater emphasis. The "Scores" displayed beneath each piece of information in the publication provide access to the AI's detailed scoring and explanations.
-
 These AI-curated publications will span multiple domains, including politics, economics, technology, health, and AI, catering to the diverse needs of our users. The range and variety of publications will continue to expand.
 
 If you have any questions or suggestions, feel free to contact me. I will read all readers emails and messages carefully and strive to improve Informed AI News.
@@ -41,11 +28,28 @@ Sincerely,
 
 Jiang.
 
+## How does this website filter information
+
+The information evaluation process employs an 8-point scale, with the following scoring factors:
+
+- Objectivity: Assessing whether the information is fair and unbiased.
+- Social Impact: The extent of the information's impact on society and the public.
+- Credibility: The trustworthiness of the information source (for example, well-known media like the BBC are considered to have higher credibility).
+- Potential: The potential for the information to trigger further events or changes.
+- Practicality: The operability of the information for readers in practical applications.
+- Entertainment Value: Assessing the entertainment value of the information.
+- Rationality: Evaluating whether the content of the article is logical.
+- Depth of Thought: Assessing the depth of thought in the information, and its contribution to any intellectual field.
+
+The scoring is weighted; for instance, in the toolbox section, Practicality is given greater emphasis. 
+
+The "Scores" displayed beneath each piece of information in the publication provide access to the AI's detailed scoring and explanations.
+
 ## Existing Publications
 
 ### World News Daily
 
-World News Daily is a comprehensive international news daily, dedicated to providing global perspective news coverage. It covers a wide range of topics including politics, economics, society, entertainment, technology, health, and sports, helping readers understand the latest developments and events around the world. World News Daily strives to provide objective, accurate information to enable readers to better understand global affairs.
+World News Daily is a comprehensive international news daily, dedicated to providing global perspective news coverage. It covers a wide range of topics including politics, economics, society, entertainment, technology, health, and sports, helping readers understand the latest developments and events around the world. Daily Release.
 [Read More >>](/docs/world-news-daily)
 
 <img
@@ -56,7 +60,7 @@ width="500"
 
 ### Tech Enthusiast Daily
 
-Tech Enthusiast Daily is a specialized tech daily, dedicated to providing the latest tech news, trend analysis, and in-depth reports on the tech industry. It covers a variety of areas including artificial intelligence, the internet, mobile devices, software development, and more, helping readers stay updated on the latest developments in the tech field. Tech Enthusiast Daily aims to provide in-depth, insightful tech information to keep readers informed about the latest trends and future directions in the tech industry.
+Tech Enthusiast Daily is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Daily Release.
 [Read More >>](/docs/tech-enthusiast-daily)
 
 <img
@@ -67,7 +71,7 @@ width="500"
 
 ### AI Enthusiast Daily
 
-AI Enthusiast Daily is a specialized AI daily, dedicated to providing the latest AI news, technological advancements, and industry insights. It covers a range of sub-fields including machine learning, deep learning, natural language processing, and more, helping readers understand the latest developments in the AI field. AI Enthusiast Daily aims to provide in-depth, insightful AI information to keep readers informed about the latest advancements and applications in the AI field.
+AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.
 [Read More >>](/docs/ai-enthusiast-daily)
 
 <img
