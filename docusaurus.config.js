@@ -40,7 +40,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   plugins:[
-    tailwindPlugin
+    tailwindPlugin,
   ],
 
   // Even if you don't use internationalization, you can use this field to set

@@ -16,14 +16,17 @@
   "dependencies": {
     "@docusaurus/core": "3.4.0",
     "@docusaurus/preset-classic": "3.4.0",
+    "@hcaptcha/react-hcaptcha": "^1.10.1",
     "@iconify/react": "^5.0.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "gatsby-plugin-feed": "^5.13.1",
     "postcss-import": "^16.1.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.3",
+    "wrangler": "^0.0.0-cbebb049"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.4.0",
