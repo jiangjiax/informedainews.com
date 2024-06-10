@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "智闻AI",
+    "message": "知闻AI信息差",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "智闻AI Logo",
+    "message": "知闻AI信息差 Logo",
     "description": "The alt text of navbar logo"
   },
   "item.label.Publications": {
