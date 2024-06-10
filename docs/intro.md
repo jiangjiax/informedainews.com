@@ -18,6 +18,14 @@ In essence, Informed AI News is an information aggregation platform. Each day, i
 
 These AI-curated publications will span multiple domains, including politics, economics, technology, health, and AI, catering to the diverse needs of our users. The range and variety of publications will continue to expand.
 
+I also run a Newsletter on the Substack platform, where I publish the latest issue content daily. 
+
+You can subscribe here:
+
+import Substack from '@site/src/components/substack';
+
+<Substack />
+
 If you have any questions or suggestions, feel free to contact me. I will read all readers emails and messages carefully and strive to improve Informed AI News.
 
 [(Other FAQ >>)](/#faq)
