@@ -6,5 +6,17 @@
   "sidebar.tutorialSidebar.category.World News Daily": {
     "message": "世界新闻日报",
     "description": "The label for category World News Daily in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.世界新闻日报": {
+    "message": "世界新闻日报",
+    "description": "The label for category 世界新闻日报 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.科技迷日报": {
+    "message": "科技迷日报",
+    "description": "The label for category 科技迷日报 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.AI迷日报": {
+    "message": "AI迷日报",
+    "description": "The label for category AI迷日报 in sidebar tutorialSidebar"
   }
 }
