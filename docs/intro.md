@@ -22,7 +22,7 @@ I also run a Newsletter on the Substack platform, where I publish the latest iss
 
 You can subscribe here:
 
-import Substack from '@site/src/components/substack';
+import Substack from '@site/src/components/Substack';
 
 <Substack />
 

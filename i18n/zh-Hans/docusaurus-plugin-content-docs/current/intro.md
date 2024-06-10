@@ -22,7 +22,7 @@ slug: /guides
 
 你可以在这里订阅：
 
-import Substack from '@site/src/components/substack';
+import Substack from '@site/src/components/Substack';
 
 <Substack />
 
