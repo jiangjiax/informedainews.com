@@ -1,7 +1,13 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import Translate from '@docusaurus/Translate';
+import Translate,{translate} from '@docusaurus/Translate';
+
+const LatestHref = translate({
+  id: 'Latest.href',
+  message: ''
+})
+
 
 const FeatureList = [
   {
@@ -90,7 +96,7 @@ function Feature({ title, href, description, date }) {
   return (
     <div className={clsx('col col--3 pb-5')}>
       <article className="overflow-hidden rounded-lg bg-zinc-50 dark:bg-zinc-800 hover:bg-sky-100 dark:hover:bg-sky-600 no-underline">
-        <a href={href} className="no-underline" style={{ textDecoration: 'none' }}>
+        <a href={LatestHref+href} className="no-underline" style={{ textDecoration: 'none' }}>
           <div className="p-4 sm:p-6">
             <h3 className="text-lg font-medium text-gray-900 dark:text-gray-100">
               {title}

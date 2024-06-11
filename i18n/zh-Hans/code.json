@@ -417,5 +417,8 @@
   },
   "Latest.description8": {
     "message": "全球最长海底光缆2Africa连接英国，提升区域互联网性能"
+  },
+  "Latest.href": {
+    "message": "/zh-Hans"
   }
 }
