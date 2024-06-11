@@ -22,7 +22,7 @@ function reverseSidebarItems(items) {
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Informed AI News',
-  tagline: `"Informed AI News" is an publications aggregation platform, ensuring you only gain the most valuable information, to eliminate information asymmetry and break through the limits of information cocoons.`,
+  tagline: `"Informed AI News" is an publications aggregation platform, ensuring you only gain the most important information, to eliminate information asymmetry and break through the limits of information cocoons.`,
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

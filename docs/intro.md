@@ -10,13 +10,15 @@ slug: /guides
 
 Hello, I'm Jiang.
 
-In an era of information overload, we have easy access to vast amounts of data, yet we also risk drowning in irrelevant noise, wasting our valuable time. I firmly believe that in today's context, the efficient acquisition of accurate and valuable information, the reduction of information gaps, and the breaking of information cocoon limitations remain crucial challenges.
+In an era of information overload, we have easy access to vast amounts of data, yet we also risk drowning in irrelevant noise, wasting our valuable time. I firmly believe that in today's context, the efficient acquisition of accurate and important information, the reduction of information gaps, and the breaking of information cocoon limitations remain crucial challenges.
 
 To address this, I have developed the website "Informed AI News", dedicated to delivering curated, easily digestible news content through AI technology, enabling you to effortlessly stay abreast of significant developments amidst a busy life.
 
-In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the most pertinent and valuable information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
+In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the most pertinent and important information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
 
 These AI-curated publications will span multiple domains, including politics, economics, technology, health, and AI, catering to the diverse needs of our users. The range and variety of publications will continue to expand.
+
+You can follow my Twitter(X): [@JJJ44129022](https://x.com/JJJ44129022), where I will send a tweet each time the publication is updated or when there is an important announcement.
 
 <!-- I also run a Newsletter on the Substack platform, where I publish the latest issue content daily. 
 

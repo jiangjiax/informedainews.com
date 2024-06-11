@@ -8,7 +8,7 @@ const FeatureList = [
     title: <Translate id="faq.title1">What is Informed-AI-News?</Translate>,
     description: (
       <>
-        <Translate id="faq.desc1">Informed-AI-News is an information aggregation platform that evaluates over 2000 pieces of the latest news daily across multiple dimensions, selects the most relevant and valuable information, generates concise summaries for each article, and compiles these curated pieces into corresponding daily, weekly, and other publications.</Translate>
+        <Translate id="faq.desc1">Informed-AI-News is an information aggregation platform that evaluates over 2000 pieces of the latest news daily across multiple dimensions, selects the most relevant and important information, generates concise summaries for each article, and compiles these curated pieces into corresponding daily, weekly, and other publications.</Translate>
       </>
     ),
   },

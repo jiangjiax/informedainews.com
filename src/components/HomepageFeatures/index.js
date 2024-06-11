@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('@site/static/img/ai1.jpeg').default,
     description: (
       <>
-      <Translate id="homepage.description1">Every day, we evaluate over 2000+ latest news items across multiple dimensions to select the most relevant and valuable information, ensuring that every piece of news delivered to you is worth your attention.</Translate>
+      <Translate id="homepage.description1">Every day, we evaluate over 2000+ latest news items across multiple dimensions to select the most relevant and important information, ensuring that every piece of news delivered to you is worth your attention.</Translate>
       </>
     ),
   },
