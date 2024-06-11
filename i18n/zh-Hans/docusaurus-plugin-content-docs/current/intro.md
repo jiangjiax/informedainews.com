@@ -18,13 +18,13 @@ slug: /guides
 
 这些AI生成的报刊将涵盖多个领域，包括政治、经济、科技、健康、AI等等，旨在满足不同用户的需求，报刊的数量和种类也将逐渐增加。
 
-我还运行着一份基于Substack平台的Newsletter，每天会发布最新的刊物内容。
+<!-- 我还运行着一份基于Substack平台的Newsletter，每天会发布最新的刊物内容。
 
 你可以在这里订阅：
 
 import Substack from '@site/src/components/Substack';
 
-<Substack />
+<Substack /> -->
 
 如果您有任何疑问或建议，欢迎与我联系。我会认真阅读所有读者的邮件和留言，并致力于使知闻AI信息差不断改进。
 
