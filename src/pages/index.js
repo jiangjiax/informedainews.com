@@ -21,7 +21,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="md:text-6xl bg-gradient-to-r from-green-300 via-white-300 to-red-300 bg-clip-text font-extrabold text-transparent sm:text-5xl">
+        <Heading as="h1" className="md:text-7xl bg-gradient-to-r from-green-300 via-white-300 to-red-300 bg-clip-text font-extrabold text-transparent sm:text-5xl">
           <Translate>You only need to focus on the most important information.</Translate>
         </Heading>
         <p className="md:text-xl sm:text-base">{tagline}</p>
