@@ -7,6 +7,7 @@ import FAQ from '@site/src/components/FAQ';
 import Translate, {translate} from '@docusaurus/Translate';
 import styles from './index.module.css';
 import Heading from '@theme/Heading';
+import ResourcesSection from '@site/src/components/Latest';
 
 const IndexTitle =translate({
   message: 'You only need to focus on the most important information.',
@@ -46,6 +47,7 @@ export default function Home() {
       <main>
         <HomepageFeatures />
         <JournalsRecomment />
+        <ResourcesSection />
         <FAQ />
       </main>
     </Layout>

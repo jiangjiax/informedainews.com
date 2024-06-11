@@ -366,5 +366,56 @@
   },
   "substack.href":{
     "message": "https://informedainewszh.substack.com/embed"
+  },
+  "Latest Resources": {
+    "message": "最新发布"
+  },
+  "Latest.title1": {
+    "message": "世界新闻日报"
+  },
+  "Latest.description1": {
+    "message": "欧洲议会选举最后一天：选民塑造大陆未来"
+  },
+  "Latest.title2": {
+    "message": "科技迷日报"
+  },
+  "Latest.description2": {
+    "message": "中国5G商业化：经济影响与网络扩展"
+  },
+  "Latest.title3": {
+    "message": "AI迷日报"
+  },
+  "Latest.description3": {
+    "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
+  },
+  "Latest.title4": {
+    "message": "世界新闻日报"
+  },
+  "Latest.description4": {
+    "message": "2024年五大AI工具革新内容创作"
+  },
+  "Latest.title5": {
+    "message": "科技迷日报"
+  },
+  "Latest.description5": {
+    "message": "2024年五大AI工具革新内容创作"
+  },
+  "Latest.title6": {
+    "message": "AI迷日报"
+  },
+  "Latest.description6": {
+    "message": "2024年五大AI工具革新内容创作"
+  },
+  "Latest.title7": {
+    "message": "世界新闻日报"
+  },
+  "Latest.description7": {
+    "message": "台湾男子冤狱41年寻求正义"
+  },
+  "Latest.title8": {
+    "message": "科技迷日报"
+  },
+  "Latest.description8": {
+    "message": "全球最长海底光缆2Africa连接英国，提升区域互联网性能"
   }
 }

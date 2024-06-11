@@ -74,7 +74,7 @@ function Feature({title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className="pt-8 pb-8">
+    <section className="pt-8 pb-8 bg-zinc-100 dark:bg-zinc-900">
       <h2 className="text-center text-3xl font-bold text-gray-900 dark:text-gray-100 pb-3" id="faq">FAQ</h2>
       <div className="container">
         {FeatureList.map((props, idx) => (

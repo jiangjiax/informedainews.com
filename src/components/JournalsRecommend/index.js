@@ -46,7 +46,7 @@ function Feature({Svg, title, href, description}) {
         />
 
         <div className="p-4 sm:p-6">
-          <a href="#">
+          <a href={href}>
             <h3 className="text-lg font-medium text-gray-900 dark:text-gray-100">
             {title}
             </h3>
