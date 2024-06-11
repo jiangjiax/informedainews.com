@@ -15,22 +15,22 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="news.title2">Tech Enthusiast Daily</Translate>,
+    title: <Translate id="news.title2">Tech Enthusiast Weekly</Translate>,
     Svg: require('@site/static/img/techfan.jpeg').default,
     href: '/docs/tech-enthusiast-daily',
     description: (
       <>
-        <Translate id="news.description2">Tech Enthusiast Daily is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Daily Release.</Translate>
+        <Translate id="news.description2">Tech Enthusiast Weekly is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Every Friday Released.</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="news.title3">AI Enthusiast Daily</Translate>,
+    title: <Translate id="news.title3">AI Enthusiast Weekly</Translate>,
     Svg: require('@site/static/img/aifan.jpeg').default,
     href: '/docs/ai-enthusiast-daily',
     description: (
       <>
-        <Translate id="news.description3">AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.</Translate>
+        <Translate id="news.description3">AI Enthusiast Weekly is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Every Monday Released.</Translate>
       </>
     ),
   },

@@ -68,24 +68,24 @@ alt="World News Daily"
 width="500"
 />
 
-### Tech Enthusiast Daily
+### Tech Enthusiast Weekly
 
-Tech Enthusiast Daily is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Daily Release.
+Tech Enthusiast Weekly is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Every Friday Released.
 [Read More >>](/docs/tech-enthusiast-daily)
 
 <img
 src={require('@site/static/img/techfan.jpeg').default}
-alt="Tech Enthusiast Daily"
+alt="Tech Enthusiast Weekly"
 width="500"
 />
 
-### AI Enthusiast Daily
+### AI Enthusiast Weekly
 
-AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.
+AI Enthusiast Weekly is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Every Monday Released.
 [Read More >>](/docs/ai-enthusiast-daily)
 
 <img
 src={require('@site/static/img/aifan.jpeg').default}
-alt="AI Enthusiast Daily"
+alt="AI Enthusiast Weekly"
 width="500"
 />

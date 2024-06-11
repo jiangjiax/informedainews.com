@@ -21,7 +21,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="Latest.title2">Tech Enthusiast Daily</Translate>,
+    title: <Translate id="Latest.title2">Tech Enthusiast Weekly</Translate>,
     href: '/docs/tech-enthusiast-daily/2-2024-06-10',
     date: '2024-06-10',
     description: (
@@ -31,7 +31,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="Latest.title3">AI Enthusiast Daily</Translate>,
+    title: <Translate id="Latest.title3">AI Enthusiast Weekly</Translate>,
     href: '/docs/ai-enthusiast-daily/3-2024-06-10',
     date: '2024-06-10',
     description: (
@@ -51,7 +51,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="Latest.title5">Tech Enthusiast Daily</Translate>,
+    title: <Translate id="Latest.title5">Tech Enthusiast Weekly</Translate>,
     href: '/docs/tech-enthusiast-daily/2-2024-06-09',
     date: '2024-06-09',
     description: (
@@ -61,7 +61,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="Latest.title6">AI Enthusiast Daily</Translate>,
+    title: <Translate id="Latest.title6">AI Enthusiast Weekly</Translate>,
     href: '/docs/ai-enthusiast-daily/3-2024-06-09',
     date: '2024-06-09',
     description: (
@@ -81,7 +81,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate id="Latest.title8">Tech Enthusiast Daily</Translate>,
+    title: <Translate id="Latest.title8">Tech Enthusiast Weekly</Translate>,
     href: '/docs/tech-enthusiast-daily/2-2024-06-08',
     date: '2024-06-08',
     description: (

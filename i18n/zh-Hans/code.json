@@ -39,7 +39,7 @@
     "message": "知闻AI信息差包含哪些类型的信息？"
   },
   "faq.desc3": {
-    "message": "我们提供多种刊物，目前主要有世界新闻日报、科技迷日报和AI迷日报。"
+    "message": "我们提供多种刊物，目前主要有世界新闻日报、科技迷周刊和AI迷周刊。"
   },
   "faq.title4": {
     "message": "知闻AI信息差的更新频率是怎样的？"
@@ -63,16 +63,16 @@
     "message": "世界新闻日报是一个全面的国际新闻日报，旨在提供全球视角的新闻报道。它涵盖政治、经济、社会、娱乐、科技、健康、体育等多个领域，帮助读者了解世界各地的最新动态和事件。每日发布。"
   },
   "news.title2": {
-    "message": "科技迷日报"
+    "message": "科技迷周刊"
   },
   "news.description2": {
-    "message": "科技迷日报是一个专注于科技领域的日报，旨在为科技爱好者提供最新的科技资讯和实用的工具推荐。它的栏目包括科技新闻、文章、工具、资源和社交媒体言论。每日发布。"
+    "message": "科技迷周刊是一个专注于科技领域的日报，旨在为科技爱好者提供最新的科技资讯和实用的工具推荐。它的栏目包括科技新闻、文章、工具、资源和社交媒体言论。每日发布。"
   },
   "news.title3": {
-    "message": "AI迷日报"
+    "message": "AI迷周刊"
   },
   "news.description3": {
-    "message": "AI迷日报是一个专注于人工智能领域的日报，旨在为AI爱好者提供最新的人工智能新闻、技术进展、行业洞察和工具推荐。它的栏目包括AI新闻、文章、工具、资源和社交媒体言论。每日发布。"
+    "message": "AI迷周刊是一个专注于人工智能领域的日报，旨在为AI爱好者提供最新的人工智能新闻、技术进展、行业洞察和工具推荐。它的栏目包括AI新闻、文章、工具、资源和社交媒体言论。每日发布。"
   },
   "Publications": {
     "message": "报刊"
@@ -377,13 +377,13 @@
     "message": "欧洲议会选举最后一天：选民塑造大陆未来"
   },
   "Latest.title2": {
-    "message": "科技迷日报"
+    "message": "科技迷周刊"
   },
   "Latest.description2": {
     "message": "中国5G商业化：经济影响与网络扩展"
   },
   "Latest.title3": {
-    "message": "AI迷日报"
+    "message": "AI迷周刊"
   },
   "Latest.description3": {
     "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
@@ -395,13 +395,13 @@
     "message": "2024年五大AI工具革新内容创作"
   },
   "Latest.title5": {
-    "message": "科技迷日报"
+    "message": "科技迷周刊"
   },
   "Latest.description5": {
     "message": "2024年五大AI工具革新内容创作"
   },
   "Latest.title6": {
-    "message": "AI迷日报"
+    "message": "AI迷周刊"
   },
   "Latest.description6": {
     "message": "2024年五大AI工具革新内容创作"
@@ -413,7 +413,7 @@
     "message": "台湾男子冤狱41年寻求正义"
   },
   "Latest.title8": {
-    "message": "科技迷日报"
+    "message": "科技迷周刊"
   },
   "Latest.description8": {
     "message": "全球最长海底光缆2Africa连接英国，提升区域互联网性能"

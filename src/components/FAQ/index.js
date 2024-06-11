@@ -24,7 +24,7 @@ const FeatureList = [
     title: <Translate id="faq.title3">What types of information does Informed-AI-News include?</Translate>,
     description: (
       <>
-        <Translate id="faq.desc3">We offer a variety of publications, with the main ones currently being World News Daily, Tech Enthusiast Daily, and AI Enthusiast Daily.</Translate>
+        <Translate id="faq.desc3">We offer a variety of publications, with the main ones currently being World News Daily, Tech Enthusiast Weekly, and AI Enthusiast Weekly.</Translate>
       </>
     ),
   },

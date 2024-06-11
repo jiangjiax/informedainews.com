@@ -11,12 +11,12 @@
     "message": "世界新闻日报",
     "description": "The label for category 世界新闻日报 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.科技迷日报": {
-    "message": "科技迷日报",
-    "description": "The label for category 科技迷日报 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.科技迷周刊": {
+    "message": "科技迷周刊",
+    "description": "The label for category 科技迷周刊 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.AI迷日报": {
-    "message": "AI迷日报",
-    "description": "The label for category AI迷日报 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.AI迷周刊": {
+    "message": "AI迷周刊",
+    "description": "The label for category AI迷周刊 in sidebar tutorialSidebar"
   }
 }

@@ -1,17 +1,17 @@
 ---
 sidebar_position: 8
-title: AI Enthusiast Daily
-description: AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.
+title: AI Enthusiast Weekly
+description: AI Enthusiast Weekly is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Every Monday Released.
 slug: /ai-enthusiast-daily
 ---
 
 <img
 src={require('@site/static/img/aifan.jpeg').default}
-alt="AI Enthusiast Daily"
+alt="AI Enthusiast Weekly"
 width="500"
 />
 
-AI Enthusiast Daily is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Published daily.
+AI Enthusiast Weekly is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Every Monday Released.
 
 import DocCardList from '@theme/DocCardList';
 
