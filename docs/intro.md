@@ -20,13 +20,13 @@ These AI-curated publications will span multiple domains, including politics, ec
 
 You can follow my Twitter(X): [@JJJ44129022](https://x.com/JJJ44129022), where I will send a tweet each time the publication is updated or when there is an important announcement.
 
-<!-- I also run a Newsletter on the Substack platform, where I publish the latest issue content daily. 
+I also run a Newsletter on the Substack platform, where I publish the latest issue content daily. 
 
 You can subscribe here:
 
 import Substack from '@site/src/components/Substack';
 
-<Substack /> -->
+<Substack />
 
 If you have any questions or suggestions, feel free to contact me. I will read all readers emails and messages carefully and strive to improve Informed AI News.
 

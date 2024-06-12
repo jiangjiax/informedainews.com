@@ -42,9 +42,9 @@ export default function FooterWrapper(props) {
             </li>
           </ul>
         </div>
-        {/* <div className="col footer__col">
+        <div className="col footer__col">
           <Substack />
-        </div> */}
+        </div>
       </div>
       <div className="footer__bottom text--center">
         <div className="footer__copyright">Copyright © 2024 Informed AI News, Inc. Built with Docusaurus.</div>

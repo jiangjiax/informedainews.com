@@ -18,13 +18,13 @@ slug: /guides
 
 你可以关注我的Twitter(X): [@JJJ44129022](https://x.com/JJJ44129022)，每当刊物更新或有重要信息通知时，我会同步发送一条推文。
 
-<!-- 我还运行着一份基于Substack平台的Newsletter，每天会发布最新的刊物内容。
+我还运行着一份基于Substack平台的Newsletter，每天会发布最新的刊物内容。
 
 你可以在这里订阅：
 
 import Substack from '@site/src/components/Substack';
 
-<Substack /> -->
+<Substack />
 
 如果您有任何疑问或建议，欢迎与我联系。我会认真阅读所有读者的邮件和留言，并致力于使知闻AI不断改进。
 
