@@ -9,6 +9,6 @@ const href = translate({
 
 export default function Substack() {
     return (
-        <iframe src={href} width="480" height="200" className={styles.substackembed}></iframe>
+        <iframe src={href} width="100%" height="200" className={styles.substackembed}></iframe>
     );
 }
