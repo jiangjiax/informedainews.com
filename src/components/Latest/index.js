@@ -12,48 +12,48 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
-    date: '2024-06-10',
-    href: '/docs/world-news-daily/1-2024-06-10',
+    date: '2024-06-13',
+    href: '/docs/world-news-daily/1-2024-06-13',
     description: (
       <>
-        <Translate id="Latest.description1">Final Day of European Parliament Elections: Voters Shape the Continent's Future</Translate>
+        <Translate id="Latest.description4">UN Report Accuses Both Hamas and Israel of War Crimes</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title2">Tech Enthusiast Weekly</Translate>,
-    href: '/docs/tech-enthusiast-daily/2-2024-06-10',
-    date: '2024-06-10',
+    title: <Translate id="Latest.title2">World News Daily</Translate>,
+    date: '2024-06-12',
+    href: '/docs/world-news-daily/1-2024-06-12',
     description: (
       <>
-        <Translate id="Latest.description2">5G Commercialization in China: Economic Impact and Network Expansion</Translate>
+        <Translate id="Latest.description4">Global Conflict Deaths Reach 30-Year High Amid Complex Conflicts</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title3">AI Enthusiast Weekly</Translate>,
-    href: '/docs/ai-enthusiast-daily/3-2024-06-10',
-    date: '2024-06-10',
+    title: <Translate id="Latest.title3">World News Daily</Translate>,
+    date: '2024-06-11',
+    href: '/docs/world-news-daily/1-2024-06-11',
     description: (
       <>
-        <Translate id="Latest.description3">Apple's WWDC 2024 to Introduce AI Enhancements in iOS 18 and iPadOS 18</Translate>
+        <Translate id="Latest.description4">Trump Faces Probation Interview Amid Legal Battle Over Hush Money Conviction</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
-    href: '/docs/world-news-daily/1-2024-06-09',
-    date: '2024-06-09',
+    date: '2024-06-10',
+    href: '/docs/world-news-daily/1-2024-06-10',
     description: (
       <>
-        <Translate id="Latest.description4">Top 5 AI Tools Revolutionizing Content Creation in 2024</Translate>
+        <Translate id="Latest.description4">Final Day of European Parliament Elections: Voters Shape the Continent's Future</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title5">Tech Enthusiast Weekly</Translate>,
-    href: '/docs/tech-enthusiast-daily/2-2024-06-09',
-    date: '2024-06-09',
+    href: '/docs/tech-enthusiast-daily/2-2024-06-10',
+    date: '2024-06-10',
     description: (
       <>
         <Translate id="Latest.description5">5G Commercialization in China: Economic Impact and Network Expansion</Translate>
@@ -62,8 +62,8 @@ const FeatureList = [
   },
   {
     title: <Translate id="Latest.title6">AI Enthusiast Weekly</Translate>,
-    href: '/docs/ai-enthusiast-daily/3-2024-06-09',
-    date: '2024-06-09',
+    href: '/docs/ai-enthusiast-daily/3-2024-06-10',
+    date: '2024-06-10',
     description: (
       <>
         <Translate id="Latest.description6">Apple's WWDC 2024 to Introduce AI Enhancements in iOS 18 and iPadOS 18</Translate>
@@ -72,24 +72,24 @@ const FeatureList = [
   },
   {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
-    href: '/docs/world-news-daily/1-2024-06-08',
-    date: '2024-06-08',
+    href: '/docs/world-news-daily/1-2024-06-09',
+    date: '2024-06-09',
     description: (
       <>
-        <Translate id="Latest.description7">Man Wrongfully Imprisoned for 41 Years in Taiwan Seeks Justice</Translate>
+        <Translate id="Latest.description7">Top 5 AI Tools Revolutionizing Content Creation in 2024</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title8">Tech Enthusiast Weekly</Translate>,
-    href: '/docs/tech-enthusiast-daily/2-2024-06-08',
-    date: '2024-06-08',
+    href: '/docs/tech-enthusiast-daily/2-2024-06-09',
+    date: '2024-06-09',
     description: (
       <>
-        <Translate id="Latest.description8">The world's longest undersea fiber optic cable, 2Africa, connects the UK, enhancing regional internet performance.</Translate>
+        <Translate id="Latest.description8">Top 5 AI Tools Revolutionizing Content Creation in 2024</Translate>
       </>
     ),
-  },
+  }
 ];
 
 function Feature({ title, href, description, date }) {
