@@ -30,7 +30,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg hover:-rotate-2 hover:scale-110 focus:outline-none focus:rin"
             to="/docs/guides">
-            <Translate>Get Start Free</Translate>
+            <Translate>Get Started Free</Translate>
           </Link>
         </div>
       </div>
