@@ -102,6 +102,7 @@ const config = {
             position: 'right',
           },
           {to: '/#faq', label: 'FAQ', position: 'right'},
+          {to: '/news', label: 'Latest News', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/jiangjiax/informedainews.com',

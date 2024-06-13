@@ -364,7 +364,7 @@
     "message": "此页面未列出。搜索引擎不会对其索引，只有拥有直接链接的用户才能访问。",
     "description": "The unlisted content banner message"
   },
-  "substack.href":{
+  "substack.href": {
     "message": "https://informedainewszh.substack.com/embed"
   },
   "Latest Resources": {
@@ -420,5 +420,11 @@
   },
   "Latest.href": {
     "message": "/zh-Hans"
+  },
+  "News": {
+    "message": "新闻"
+  },
+  "news selected from the past 3 days": {
+    "message": "3天内入选的新闻"
   }
 }

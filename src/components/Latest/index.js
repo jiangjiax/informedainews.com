@@ -97,11 +97,11 @@ function Feature({ title, href, description, date }) {
     <div className={clsx('col col--3 pb-5')}>
       <article className="overflow-hidden rounded-lg bg-zinc-50 dark:bg-zinc-800 hover:bg-sky-100 dark:hover:bg-sky-600 no-underline">
         <a href={LatestHref+href} className="no-underline" style={{ textDecoration: 'none' }}>
-          <div className="p-4 sm:p-6">
+          <div className="p-4">
             <h3 className="text-lg font-medium text-gray-900 dark:text-gray-100">
               {title}
             </h3>
-            <p className="mt-2 line-clamp-4 text-sm/relaxed text-gray-500 dark:text-gray-200" style={{ height: '5.7rem' }}>
+            <p className="mt-2 line-clamp-4 text-sm/relaxed text-gray-500 dark:text-gray-200" style={{ height: '5.6rem' }}>
               {description}
             </p>
             <div className="text-sm text-blue-500 dark:text-blue-200">
