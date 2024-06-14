@@ -371,52 +371,52 @@
     "message": "最新发布"
   },
   "Latest.title1": {
-    "message": "世界新闻日报"
+    "message": "科技迷周刊"
   },
   "Latest.description1": {
-    "message": "联合国报告指控哈马斯和以色列均犯有战争罪行"
+    "message": "ASML发布下一代'Hyper-NA'极紫外光刻技术路线图"
   },
   "Latest.title2": {
     "message": "世界新闻日报"
   },
   "Latest.description2": {
-    "message": "全球冲突死亡人数达30年新高，复杂冲突交织"
+    "message": "ASML发布下一代'Hyper-NA'极紫外光刻技术路线图"
   },
   "Latest.title3": {
     "message": "世界新闻日报"
   },
   "Latest.description3": {
-    "message": "特朗普面临缓刑审查，法律斗争围绕封口费定罪展开"
+    "message": "联合国报告指控哈马斯和以色列均犯有战争罪行"
   },
   "Latest.title4": {
     "message": "世界新闻日报"
   },
   "Latest.description4": {
-    "message": "欧洲议会选举最后一天：选民塑造大陆未来"
+    "message": "全球冲突死亡人数达30年新高，复杂冲突交织"
   },
   "Latest.title5": {
-    "message": "科技迷周刊"
-  },
-  "Latest.description5": {
-    "message": "中国5G商业化：经济影响与网络扩展"
-  },
-  "Latest.title6": {
-    "message": "AI迷周刊"
-  },
-  "Latest.description6": {
-    "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
-  },
-  "Latest.title7": {
     "message": "世界新闻日报"
   },
-  "Latest.description7": {
-    "message": "2024年五大AI工具革新内容创作"
+  "Latest.description5": {
+    "message": "特朗普面临缓刑审查，法律斗争围绕封口费定罪展开"
   },
-  "Latest.title8": {
+  "Latest.title6": {
+    "message": "世界新闻日报"
+  },
+  "Latest.description6": {
+    "message": "欧洲议会选举最后一天：选民塑造大陆未来"
+  },
+  "Latest.title7": {
     "message": "科技迷周刊"
   },
+  "Latest.description7": {
+    "message": "中国5G商业化：经济影响与网络扩展"
+  },
+  "Latest.title8": {
+    "message": "AI迷周刊"
+  },
   "Latest.description8": {
-    "message": "2024年五大AI工具革新内容创作"
+    "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
   },
   "Latest.href": {
     "message": "/zh-Hans"
