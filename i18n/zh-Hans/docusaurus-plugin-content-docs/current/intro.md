@@ -65,7 +65,7 @@ width="500"
 ### 科技迷周刊
 
 科技迷周刊是一个专注于科技领域的日报，旨在为科技爱好者提供最新的科技资讯和实用的工具推荐。它的栏目包括科技新闻、文章、工具、资源和社交媒体言论。每周五发布。
-[Read More >>](/docs/tech-enthusiast-daily)
+[Read More >>](/docs/tech-enthusiast-weekly)
 
 <img
 src={require('@site/static/img/techfan.jpeg').default}

@@ -17,7 +17,7 @@ const FeatureList = [
   {
     title: <Translate id="news.title2">Tech Enthusiast Weekly</Translate>,
     Svg: require('@site/static/img/techfan.jpeg').default,
-    href: '/docs/tech-enthusiast-daily',
+    href: '/docs/tech-enthusiast-weekly',
     description: (
       <>
         <Translate id="news.description2">Tech Enthusiast Weekly is a newspaper dedicated to the field of technology, aiming to provide the latest tech news and practical tool recommendations for tech enthusiasts. Its sections include tech news, articles, tools, resources, and social media commentary. Every Friday Released.</Translate>
