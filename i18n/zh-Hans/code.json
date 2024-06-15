@@ -424,7 +424,7 @@
   "News": {
     "message": "新闻"
   },
-  "news selected from the past 5 days": {
-    "message": "5天内入选的新闻"
+  "news selected from the past 3 days": {
+    "message": "3天内入选的新闻"
   }
 }
