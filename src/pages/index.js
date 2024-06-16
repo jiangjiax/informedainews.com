@@ -15,7 +15,7 @@ const IndexTitle =translate({
 
 const tagline = translate({
   id: 'homepage.tagline',
-  message: '"Informed AI News" is an AI-curated publications aggregation platform, ensuring you access only the most valuable information, with the aim of eliminating the information gap and transcending the confines of information cocoons.'
+  message: '"Informed AI News" is an AI-curated publications aggregation platform, precisely selecting and aggregating the most important global news and information. Its purpose is to help you eliminate information gaps and break through the limitations of the information cocoon room. Experience it now and embark on a new chapter of intelligent news reading!'
 })
 
 function HomepageHeader() {
