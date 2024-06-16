@@ -14,7 +14,7 @@ In an era of information overload, we have easy access to vast amounts of data, 
 
 To address this, I have developed the website "Informed AI News", dedicated to delivering curated, easily digestible news content through AI technology, enabling you to effortlessly stay abreast of significant developments amidst a busy life.
 
-In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the high-quality information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications. Informed AI News not only saves users' time but also enhances the efficiency of information acquisition, making every piece of news worth reading.
+In essence, Informed AI News is an information aggregation platform. Each day, it assesses over 2000+ of the latest news items across multiple dimensions, selecting the high-quality information. It then generates concise summaries for each article and compiles these into corresponding daily, weekly, and other periodic publications.
 
 These AI-curated publications will span multiple domains, including politics, economics, technology, health, and AI, catering to the diverse needs of our users. The range and variety of publications will continue to expand.
 
