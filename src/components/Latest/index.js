@@ -26,7 +26,7 @@ const FeatureList = [
     href: '/docs/world-news-daily/1-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description2">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $28 Million</Translate>
+        <Translate id="Latest.description2">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million</Translate>
       </>
     ),
   },
