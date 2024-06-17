@@ -55,6 +55,10 @@ The scoring is weighted; for instance, in the toolbox section, Practicality is g
 
 The "Scores" displayed beneath each piece of information in the publication provide access to the AI's detailed scoring and explanations.
 
+Taking the news 《[Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million](https://informedainews.com/news/2024/06/17/Bidens-LA-Fundraiser-with-Obama-and-Hollywood-Stars-Raises-2)》 as an example:
+
+![example](https://image.informedainews.com/biden.jpeg)
+
 ## Existing Publications
 
 ### World News Daily

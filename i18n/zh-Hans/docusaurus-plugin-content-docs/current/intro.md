@@ -47,7 +47,13 @@ import Substack from '@site/src/components/Substack';
 - Rationality: 评估文章的内容是否符合逻辑。
 - Depth of Thought: 评估信息的思想深度，在任何思想领域的贡献。
 
-评分是有权重的，例如在工具栏目的信息中，Practicality 会得到更高的权重。通过刊物中每条信息下方展示的 Scores 可以进入内页查看具体的评分和 AI 的打分解释。
+评分是有权重的，例如在工具栏目的信息中，Practicality 会得到更高的权重。
+
+通过刊物中每条信息下方展示的 Scores 可以进入内页查看具体的评分和 AI 的打分解释。
+
+以新闻《Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million》为例：
+
+![example](https://image.informedainews.com/biden.jpeg)
 
 ## 现有的刊物
 
