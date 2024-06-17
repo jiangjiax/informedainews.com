@@ -11,82 +11,82 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
-    title: <Translate id="Latest.title1">World News Daily</Translate>,
-    date: '2024-06-16',
-    href: '/docs/world-news-daily/1-2024-06-16',
+    title: <Translate id="Latest.title1">AI Enthusiast Weekly</Translate>,
+    date: '2024-06-17',
+    href: '/docs/ai-enthusiast-weekly/3-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description1">Global Leaders Convene in Switzerland to Forge Ukraine Peace Plan</Translate>
+        <Translate id="Latest.description1">Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-06-15',
-    href: '/docs/world-news-daily/1-2024-06-15',
+    date: '2024-06-17',
+    href: '/docs/world-news-daily/1-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description2">China, Russia, and North Korea Consider Allowing Ships Access to Sea of Japan via Tumen River</Translate>
+        <Translate id="Latest.description2">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $28 Million</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title3">Tech Enthusiast Weekly</Translate>,
-    date: '2024-06-14',
-    href: '/docs/tech-enthusiast-weekly/2-2024-06-14',
+    title: <Translate id="Latest.title3">World News Daily</Translate>,
+    date: '2024-06-16',
+    href: '/docs/world-news-daily/1-2024-06-16',
     description: (
       <>
-        <Translate id="Latest.description3">ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap</Translate>
+        <Translate id="Latest.description3">Global Leaders Convene in Switzerland to Forge Ukraine Peace Plan</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
-    date: '2024-06-14',
-    href: '/docs/world-news-daily/1-2024-06-14',
+    date: '2024-06-15',
+    href: '/docs/world-news-daily/1-2024-06-15',
     description: (
       <>
-        <Translate id="Latest.description4">ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap</Translate>
+        <Translate id="Latest.description4">China, Russia, and North Korea Consider Allowing Ships Access to Sea of Japan via Tumen River</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-06-13',
-    href: '/docs/world-news-daily/1-2024-06-13',
+    title: <Translate id="Latest.title5">Tech Enthusiast Weekly</Translate>,
+    date: '2024-06-14',
+    href: '/docs/tech-enthusiast-weekly/2-2024-06-14',
     description: (
       <>
-        <Translate id="Latest.description5">UN Report Accuses Both Hamas and Israel of War Crimes</Translate>
+        <Translate id="Latest.description5">ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-06-12',
-    href: '/docs/world-news-daily/1-2024-06-12',
+    date: '2024-06-14',
+    href: '/docs/world-news-daily/1-2024-06-14',
     description: (
       <>
-        <Translate id="Latest.description6">Global Conflict Deaths Reach 30-Year High Amid Complex Conflicts</Translate>
+        <Translate id="Latest.description6">ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-06-11',
-    href: '/docs/world-news-daily/1-2024-06-11',
+    date: '2024-06-13',
+    href: '/docs/world-news-daily/1-2024-06-13',
     description: (
       <>
-        <Translate id="Latest.description7">Trump Faces Probation Interview Amid Legal Battle Over Hush Money Conviction</Translate>
+        <Translate id="Latest.description7">UN Report Accuses Both Hamas and Israel of War Crimes</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-06-10',
-    href: '/docs/world-news-daily/1-2024-06-10',
+    date: '2024-06-12',
+    href: '/docs/world-news-daily/1-2024-06-12',
     description: (
       <>
-        <Translate id="Latest.description8">Final Day of European Parliament Elections: Voters Shape the Continent's Future</Translate>
+        <Translate id="Latest.description8">Global Conflict Deaths Reach 30-Year High Amid Complex Conflicts</Translate>
       </>
     ),
   }

@@ -27,7 +27,7 @@ const FeatureList = [
   {
     title: <Translate id="news.title3">AI Enthusiast Weekly</Translate>,
     Svg: require('@site/static/img/aifan.jpeg').default,
-    href: '/docs/ai-enthusiast-daily',
+    href: '/docs/ai-enthusiast-weekly',
     description: (
       <>
         <Translate id="news.description3">AI Enthusiast Weekly is a newspaper dedicated to the field of artificial intelligence, designed to provide AI enthusiasts with the latest AI news, technological advancements, industry insights, and tool recommendations. Its sections cover AI news, articles, tools, resources, and social media commentary. Every Monday Released.</Translate>
