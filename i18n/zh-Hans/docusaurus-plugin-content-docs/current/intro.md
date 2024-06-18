@@ -51,7 +51,7 @@ import Substack from '@site/src/components/Substack';
 
 通过刊物中每条信息下方展示的 Scores 可以进入内页查看具体的评分和 AI 的打分解释。
 
-以新闻《Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million》为例：
+以新闻《[Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million](https://informedainews.com/news/2024/06/17/Bidens-LA-Fundraiser-with-Obama-and-Hollywood-Stars-Raises-2)》为例：
 
 ![example](https://image.informedainews.com/biden.jpeg)
 
