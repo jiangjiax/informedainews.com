@@ -89,3 +89,8 @@ src={require('@site/static/img/aifan.jpeg').default}
 alt="AI Enthusiast Weekly"
 width="500"
 />
+
+### 工具日报
+
+通过工具日报发现 2024 年实用的互联网软件、AI工具和产品！每天发布，每次推荐5-10个实用工具。
+[Read More >>](/docs/tools-daily)

@@ -93,3 +93,8 @@ src={require('@site/static/img/aifan.jpeg').default}
 alt="AI Enthusiast Weekly"
 width="500"
 />
+
+### Tools Daily
+
+Discover practical internet software, AI tools, and products of 2024 through the Tool Daily Report! Released daily, each edition recommends 5-10 useful tools.
+[Read More >>](/docs/tools-daily)
