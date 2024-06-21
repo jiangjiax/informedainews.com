@@ -12,81 +12,81 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
-    date: '2024-06-20',
-    href: '/docs/world-news-daily/1-2024-06-20',
+    date: '2024-06-21',
+    href: '/docs/tech-enthusiast-weekly/1-2024-06-21',
     description: (
       <>
-        <Translate id="Latest.description1">UN Deputy Secretary General Amina Mohammed Calls for Increased Women's Representation in Global Leadership</Translate>
+        <Translate id="Latest.description1">China Leads in Developing IEEE Financial Language Model Standard</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-06-19',
-    href: '/docs/world-news-daily/1-2024-06-19',
+    date: '2024-06-21',
+    href: '/docs/world-news-daily/1-2024-06-21',
     description: (
       <>
-        <Translate id="Latest.description2">Miriam Shehane, Founder of VOCAL, Passes Away at 91</Translate>
+        <Translate id="Latest.description2">Supreme Court to Announce Key Decisions on Trump Immunity and Abortion Rights</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title3">World News Daily</Translate>,
-    date: '2024-06-18',
-    href: '/docs/world-news-daily/1-2024-06-18',
+    date: '2024-06-20',
+    href: '/docs/world-news-daily/1-2024-06-20',
     description: (
       <>
-        <Translate id="Latest.description3">Nuclear-armed Nations Increase Spending, Deepening Reliance on Nuclear Weapons</Translate>
+        <Translate id="Latest.description3">UN Deputy Secretary General Amina Mohammed Calls for Increased Women's Representation in Global Leadership</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title4">AI Enthusiast Weekly</Translate>,
-    date: '2024-06-17',
-    href: '/docs/ai-enthusiast-weekly/3-2024-06-17',
+    title: <Translate id="Latest.title4">World News Daily</Translate>,
+    date: '2024-06-19',
+    href: '/docs/world-news-daily/1-2024-06-19',
     description: (
       <>
-        <Translate id="Latest.description4">Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency</Translate>
+        <Translate id="Latest.description4">Miriam Shehane, Founder of VOCAL, Passes Away at 91</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-06-17',
-    href: '/docs/world-news-daily/1-2024-06-17',
+    date: '2024-06-18',
+    href: '/docs/world-news-daily/1-2024-06-18',
     description: (
       <>
-        <Translate id="Latest.description5">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million</Translate>
+        <Translate id="Latest.description5">Nuclear-armed Nations Increase Spending, Deepening Reliance on Nuclear Weapons</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-06-16',
-    href: '/docs/world-news-daily/1-2024-06-16',
+    title: <Translate id="Latest.title6">AI Enthusiast Weekly</Translate>,
+    date: '2024-06-17',
+    href: '/docs/ai-enthusiast-weekly/3-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description6">Global Leaders Convene in Switzerland to Forge Ukraine Peace Plan</Translate>
+        <Translate id="Latest.description6">Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-06-15',
-    href: '/docs/world-news-daily/1-2024-06-15',
+    date: '2024-06-17',
+    href: '/docs/world-news-daily/1-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description7">China, Russia, and North Korea Consider Allowing Ships Access to Sea of Japan via Tumen River</Translate>
+        <Translate id="Latest.description7">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title8">Tech Enthusiast Weekly</Translate>,
-    date: '2024-06-14',
-    href: '/docs/tech-enthusiast-weekly/2-2024-06-14',
+    title: <Translate id="Latest.title8">World News Daily</Translate>,
+    date: '2024-06-16',
+    href: '/docs/world-news-daily/1-2024-06-16',
     description: (
       <>
-        <Translate id="Latest.description8">ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap</Translate>
+        <Translate id="Latest.description8">Global Leaders Convene in Switzerland to Forge Ukraine Peace Plan</Translate>
       </>
     ),
   }
