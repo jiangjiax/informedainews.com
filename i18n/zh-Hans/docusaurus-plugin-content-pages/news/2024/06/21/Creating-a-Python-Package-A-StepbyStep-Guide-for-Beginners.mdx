@@ -1,0 +1,46 @@
+---
+title: "创建Python包：初学者分步指南"
+description: "创建Python包：初学者分步指南"
+
+---
+
+
+:::info
+
+“智闻AI“ 是由人工智能编撰的刊物集合，确保您只获得最有价值的信息，旨在助您消除信息差，突破信息茧房的局限。  [了解更多 >>](/)
+
+:::
+
+# 创建Python包：初学者分步指南
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+	defaultValue="summary"
+	values={[
+	{label: 'summary', value: 'summary'},
+	{label: 'score', value: 'score'},
+]}>
+<TabItem value="summary">
+
+
+该文章详细记录了“rimetool”的创建过程，这是一个旨在增强Rime输入法功能的Python包。由于对现有医学英语词典的限制感到沮丧，作者开发了一个工具来创建自定义词典，最初是通过Jupyter笔记本实现的。意识到这种方法的效率低下，作者受到bilix工具简洁性的启发，转向使用argparse的命令行界面。
+
+将此工具转变为可通过pip安装的包涉及多个步骤：编写源代码、添加命令行支持，以及为在PyPI上分发打包工具。作者详细介绍了`setup.py`文件的设置，这对于定义包元数据和依赖项至关重要，并强调了版本控制和唯一命名以避免在PyPI上发生冲突的重要性。
+
+文章最后提供了关于在上传到PyPI过程中解决常见问题的实用建议，强调了在部署前本地测试的重要性。此项目不仅满足了个人的需求，还为希望创建其首个pip包的其他人提供了一个实用指南，体现了通过技术进行开源贡献和问题解决的精神。
+</TabItem>
+<TabItem value="score">
+	| Scores     | Value   | Explanation |
+	| -------- | ------- | ------- |
+	| Objectivity  | 6    | The content provides a detailed, balanced guide on creating a Python package, supported by practical steps and personal experience.    |
+	| Social Impact | 3     | The guide may influence individuals interested in Python development but has limited broader social impact.    |
+	| Credibility    | 5    | The content is credible, based on the author's personal experience and practical steps outlined.    |
+	| Potential    | 4    | The guide has the potential to inspire and assist many in the tech community to create their own packages.    |
+	| Practicality    | 5    | The guide is highly practical, providing step-by-step instructions that can be directly applied.    |
+	| Entertainment Value    | 2    | While informative, the content lacks elements typically associated with high entertainment value.    |
+</TabItem>
+</Tabs>
+
+[Full article>>](https://sspai.com/post/89589)
