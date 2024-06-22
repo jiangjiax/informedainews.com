@@ -35,7 +35,7 @@ export default function Latest({
         <div className="container flex justify-center">
             <div className="row">
                 <div className={"overflow-hidden rounded-lg bg-blue-100 dark:bg-zinc-800 hover:bg-sky-500 dark:hover:bg-sky-500 no-underline ml-1 mr-1 mb-3"}>
-                    <a href="/docs/tools-daily" className="no-underline" style={{ textDecoration: 'none' }}>
+                    <a href={LatestHref+"/docs/tools-daily"} className="no-underline" style={{ textDecoration: 'none' }}>
                         <div className={clsx("font-medium p-2 text-center hover:text-white")}>
                             <Translate>Tools Daily</Translate>
                         </div>
