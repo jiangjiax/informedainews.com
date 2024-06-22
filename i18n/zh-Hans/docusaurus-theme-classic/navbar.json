@@ -22,5 +22,9 @@
   "item.label.Latest News": {
     "message": "最新消息",
     "description": "Navbar item with label Latest News"
+  },
+  "item.label.Latest Tools": {
+    "message": "最新工具",
+    "description": "Navbar item with label Latest Tools"
   }
 }

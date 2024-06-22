@@ -18,5 +18,13 @@
   "sidebar.tutorialSidebar.category.AI迷周刊": {
     "message": "AI迷周刊",
     "description": "The label for category AI迷周刊 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.工具日报": {
+    "message": "工具日报",
+    "description": "The label for category 工具日报 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.知闻AI Build-In-Public": {
+    "message": "知闻AI Build-In-Public",
+    "description": "The label for category 知闻AI Build-In-Public in sidebar tutorialSidebar"
   }
 }

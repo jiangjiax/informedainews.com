@@ -16,7 +16,7 @@ sources
                 {/* <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3> */}
                 <div className="flex flex-col justify-between">
                     <div className="flex"> {/* 使用 flex 布局 */}
-                        <Link className="no-underline mr-4" style={{ textDecoration: 'none' }} href={sources}>
+                        <Link className="no-underline mr-4" style={{ textDecoration: 'none' }} href={href}>
                             <h2 className="text-lg text-gray-900 font-medium title-font mb-4 hover:text-blue-600">{title}</h2>
                         </Link>
                         <div className="flex-grow"></div> {/* 使用 flex-grow 来推 SVG 到右边 */}

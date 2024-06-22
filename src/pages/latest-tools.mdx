@@ -1,0 +1,37 @@
+---
+title: Informed AI News Latest Tools Directory
+description: Discover practical internet software, AI tools, and products of 2024 through the Informed AI News Latest Tools Directory!
+hide_table_of_contents: true
+---
+
+import ResourcesSection from '@site/src/components/Tools/tags';
+import Translate, {translate} from '@docusaurus/Translate';
+
+<ResourcesSection 
+    FeatureList = {
+        [
+            {
+                title: "Latest Tools",
+                href: '/latest-tools',
+                active: true
+            },
+            {
+                title: "AI Podcast Production",
+                href: '/ai-podcast-production',
+            },
+        ]
+    }
+/>
+
+import CardGrid from '@site/src/components/CardGrid';
+import CardItem from '@site/src/components/CardItem';
+
+<CardGrid>
+	<CardItem truncate 
+        title="MakePodcast" 
+        imgsrc="https://image.informedainews.com/makepodcast.jpeg"
+        sources="https://makepodcast.io/" 
+        href="/tools/makepodcast"
+        info="AI transforms podcasting. Input script, select AI voices, get a polished podcast fast. No voice actors, minimal production time. Ideal for quick, quality audio content." 
+    />
+</CardGrid>
