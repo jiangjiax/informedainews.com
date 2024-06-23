@@ -12,81 +12,81 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
-    date: '2024-06-22',
-    href: '/docs/world-news-daily/1-2024-06-22',
+    date: '2024-06-23',
+    href: '/docs/world-news-daily/1-2024-06-23',
     description: (
       <>
-        <Translate id="Latest.description1">Major Healthcare Data Breach Affects Millions in the U.S</Translate>
+        <Translate id="Latest.description1">Change Healthcare Experiences Ransomware Attack, Medical Records of Many Americans Stolen</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-06-21',
-    href: '/docs/tech-enthusiast-weekly/1-2024-06-21',
+    date: '2024-06-22',
+    href: '/docs/world-news-daily/1-2024-06-22',
     description: (
       <>
-        <Translate id="Latest.description2">China Leads in Developing IEEE Financial Language Model Standard</Translate>
+        <Translate id="Latest.description2">Major Healthcare Data Breach Affects Millions in the U.S</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title3">World News Daily</Translate>,
     date: '2024-06-21',
-    href: '/docs/world-news-daily/1-2024-06-21',
+    href: '/docs/tech-enthusiast-weekly/1-2024-06-21',
     description: (
       <>
-        <Translate id="Latest.description3">Supreme Court to Announce Key Decisions on Trump Immunity and Abortion Rights</Translate>
+        <Translate id="Latest.description3">China Leads in Developing IEEE Financial Language Model Standard</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
-    date: '2024-06-20',
-    href: '/docs/world-news-daily/1-2024-06-20',
+    date: '2024-06-21',
+    href: '/docs/world-news-daily/1-2024-06-21',
     description: (
       <>
-        <Translate id="Latest.description4">UN Deputy Secretary General Amina Mohammed Calls for Increased Women's Representation in Global Leadership</Translate>
+        <Translate id="Latest.description4">Supreme Court to Announce Key Decisions on Trump Immunity and Abortion Rights</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-06-19',
-    href: '/docs/world-news-daily/1-2024-06-19',
+    date: '2024-06-20',
+    href: '/docs/world-news-daily/1-2024-06-20',
     description: (
       <>
-        <Translate id="Latest.description5">Miriam Shehane, Founder of VOCAL, Passes Away at 91</Translate>
+        <Translate id="Latest.description5">UN Deputy Secretary General Amina Mohammed Calls for Increased Women's Representation in Global Leadership</Translate>
       </>
     ),
   },
   {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
+    date: '2024-06-19',
+    href: '/docs/world-news-daily/1-2024-06-19',
+    description: (
+      <>
+        <Translate id="Latest.description6">Miriam Shehane, Founder of VOCAL, Passes Away at 91</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title7">World News Daily</Translate>,
     date: '2024-06-18',
     href: '/docs/world-news-daily/1-2024-06-18',
     description: (
       <>
-        <Translate id="Latest.description6">Nuclear-armed Nations Increase Spending, Deepening Reliance on Nuclear Weapons</Translate>
+        <Translate id="Latest.description7">Nuclear-armed Nations Increase Spending, Deepening Reliance on Nuclear Weapons</Translate>
       </>
     ),
   },
   {
-    title: <Translate id="Latest.title7">AI Enthusiast Weekly</Translate>,
+    title: <Translate id="Latest.title8">AI Enthusiast Weekly</Translate>,
     date: '2024-06-17',
     href: '/docs/ai-enthusiast-weekly/3-2024-06-17',
     description: (
       <>
-        <Translate id="Latest.description7">Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-06-17',
-    href: '/docs/world-news-daily/1-2024-06-17',
-    description: (
-      <>
-        <Translate id="Latest.description8">Biden's LA Fundraiser with Obama and Hollywood Stars Raises $30 million</Translate>
+        <Translate id="Latest.description8">Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency</Translate>
       </>
     ),
   },

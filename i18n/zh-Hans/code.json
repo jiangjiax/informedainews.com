@@ -374,49 +374,49 @@
     "message": "世界新闻日报"
   },
   "Latest.description1": {
-    "message": "美国数百万人的重大医疗数据泄露事件"
+    "message": "Change Healthcare遭遇勒索软件攻击，许多美国人的医疗记录被盗"
   },
   "Latest.title2": {
-    "message": "科技迷周刊"
-  },
-  "Latest.description2": {
-    "message": "中国在制定IEEE金融语言模型标准方面处于领先地位"
-  },
-  "Latest.title3": {
     "message": "世界新闻日报"
   },
+  "Latest.description2": {
+    "message": "美国数百万人的重大医疗数据泄露事件"
+  },
+  "Latest.title3": {
+    "message": "科技迷周刊"
+  },
   "Latest.description3": {
-    "message": "最高法院将宣布关于特朗普豁免权和堕胎权的关键裁决"
+    "message": "中国在制定IEEE金融语言模型标准方面处于领先地位"
   },
   "Latest.title4": {
     "message": "世界新闻日报"
   },
   "Latest.description4": {
-    "message": "联合国副秘书长阿米娜·穆罕默德呼吁提高全球领导层中女性的代表性"
+    "message": "最高法院将宣布关于特朗普豁免权和堕胎权的关键裁决"
   },
   "Latest.title5": {
     "message": "世界新闻日报"
   },
   "Latest.description5": {
-    "message": "米丽亚姆·谢汉，VOCAL创始人，享年91岁逝世"
+    "message": "联合国副秘书长阿米娜·穆罕默德呼吁提高全球领导层中女性的代表性"
   },
   "Latest.title6": {
     "message": "世界新闻日报"
   },
   "Latest.description6": {
-    "message": "拥核国家增加开支，加深对核武器的依赖"
+    "message": "米丽亚姆·谢汉，VOCAL创始人，享年91岁逝世"
   },
   "Latest.title7": {
-    "message": "AI迷周刊"
-  },
-  "Latest.description7": {
-    "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
-  },
-  "Latest.title8": {
     "message": "世界新闻日报"
   },
+  "Latest.description7": {
+    "message": "拥核国家增加开支，加深对核武器的依赖"
+  },
+  "Latest.title8": {
+    "message": "AI迷周刊"
+  },
   "Latest.description8": {
-    "message": "拜登与奥巴马及好莱坞明星在洛杉矶的筹款活动筹得3000万美元"
+    "message": "苹果公司2024年全球开发者大会将推出iOS 18和iPadOS 18的人工智能增强功能"
   },
   "Latest.href": {
     "message": "/zh-Hans"
