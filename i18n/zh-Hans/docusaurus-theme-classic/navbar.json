@@ -23,8 +23,8 @@
     "message": "最新消息",
     "description": "Navbar item with label Latest News"
   },
-  "item.label.Latest Tools": {
-    "message": "最新工具",
-    "description": "Navbar item with label Latest Tools"
+  "item.label.Selected Tools": {
+    "message": "精选工具",
+    "description": "Navbar item with label Selected Tools"
   }
 }

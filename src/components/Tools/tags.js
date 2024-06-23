@@ -28,9 +28,9 @@ export default function Latest({
 }) {
     return (
         <section className="pt-5 pb-5">
-        <h1 className="text-center text-6xl font-bold text-gray-900 dark:text-gray-100"><Translate>Informed AI News Latest Tools Directory</Translate></h1>
+        <h1 className="text-center text-6xl font-bold text-gray-900 dark:text-gray-100"><Translate>Informed AI News Selected Tools Directory</Translate></h1>
         <p className="text-center text-gray-600 dark:text-gray-400 text-lg">
-            <Translate>Discover practical internet software, AI tools, and products of 2024 through the Informed AI News Latest Tools Directory!</Translate>
+            <Translate>Discover practical internet software, AI tools, and products of 2024 through the Informed AI News Selected Tools Directory!</Translate>
         </p>
         <div className="container flex justify-center">
             <div className="row">
