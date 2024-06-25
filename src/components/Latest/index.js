@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title8">World News Daily</Translate>,
+    date: '2024-06-25',
+    href: '/docs/world-news-daily/1-2024-06-25',
+    description: (
+      <>
+        <Translate id="Latest.description8">Julian Assange Pleads Guilty in US Espionage Case, Potentially Ending Imprisonment</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title1">AI Enthusiast Weekly</Translate>,
     date: '2024-06-24',
     href: '/docs/ai-enthusiast-weekly/3-2024-06-24',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description7">UN Deputy Secretary General Amina Mohammed Calls for Increased Women's Representation in Global Leadership</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-06-19',
-    href: '/docs/world-news-daily/1-2024-06-19',
-    description: (
-      <>
-        <Translate id="Latest.description8">Miriam Shehane, Founder of VOCAL, Passes Away at 91</Translate>
       </>
     ),
   },
