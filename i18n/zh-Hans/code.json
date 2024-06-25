@@ -439,6 +439,9 @@
   "Submit": {
     "message": "提交"
   },
+  "Submitting...": {
+    "message": "提交中..."
+  },
   "Submit your tool to get traffic": {
     "message": "提交您的工具，获取流量"
   },

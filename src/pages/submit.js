@@ -32,6 +32,7 @@ export default function Submit() {
         email: '',
         description: ''
     });
+    const [isSubmitting, setIsSubmitting] = useState(false);
 
     const handleChange = (e) => {
         const { name, value } = e.target;
@@ -43,6 +44,7 @@ export default function Submit() {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+        setIsSubmitting(true);
         try {
             const response = await axios.post('https://informedainews.2921238406.workers.dev/submit', formData);
             if (response.status === 200) {
@@ -71,6 +73,8 @@ export default function Submit() {
                 title: 'Oops...',
                 text: 'There was an error submitting the form. Please try again.',
             });
+        } finally {
+            setIsSubmitting(false);
         }
     };
 
@@ -138,9 +142,13 @@ export default function Submit() {
                             <div className="flex items-center justify-center">
                                 <button
                                     type="submit"
-                                    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full focus:outline-none focus:shadow-outline border-none"
+                                    disabled={isSubmitting}
+                                    className={clsx(
+                                        "bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full focus:outline-none focus:shadow-outline border-none",
+                                        isSubmitting && "opacity-50 cursor-not-allowed"
+                                    )}
                                 >
-                                    <Translate>Submit</Translate>
+                                    {isSubmitting ? <Translate>Submitting...</Translate> : <Translate>Submit</Translate>}
                                 </button>
                             </div>
                         </form>
