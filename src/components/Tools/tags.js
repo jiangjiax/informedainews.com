@@ -41,13 +41,13 @@ export default function Latest({
                             </div>
                         </a>
                     </div>
-                    {/* <div className={"overflow-hidden rounded-lg bg-blue-100 dark:bg-zinc-800 hover:bg-sky-500 dark:hover:bg-sky-500 no-underline ml-1 mr-1 mb-3"}>
+                    <div className={"overflow-hidden rounded-lg bg-blue-100 dark:bg-zinc-800 hover:bg-sky-500 dark:hover:bg-sky-500 no-underline ml-1 mr-1 mb-3"}>
                         <a href={LatestHref+"/submit"} className="no-underline" style={{ textDecoration: 'none' }}>
                             <div className={clsx("font-medium p-2 text-center hover:text-white")}>
                                 <Translate>Submit</Translate>
                             </div>
                         </a>
-                    </div> */}
+                    </div>
                 </div>
             </div>
             <div className="container flex justify-center">

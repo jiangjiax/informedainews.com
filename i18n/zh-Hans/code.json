@@ -435,5 +435,32 @@
   },
   "Tools Daily": {
     "message": "工具日报"
+  },
+  "Submit": {
+    "message": "提交"
+  },
+  "Submit your tool to get traffic": {
+    "message": "提交您的工具，获取流量"
+  },
+  "Add": {
+    "message": "将"
+  },
+  " <a href=\"https://informedainews.com\" title=\"Informed AI News\">Informed AI News</a> ": {
+    "message": " <a href=\"https://informedainews.com\" title=\"知闻AI\">知闻AI</a> "
+  },
+  "to your website footer as a friendly link, and you can submit your website for free.": {
+    "message": "添加到您的网站页脚作为友情链接，即可免费提交您的网站。"
+  },
+  "Tool Name:": {
+    "message": "工具名字:"
+  },
+  "Website URL:": {
+    "message": "网站URL:"
+  },
+  "Email:": {
+    "message": "邮箱地址:"
+  },
+  "Description:": {
+    "message": "描述:"
   }
 }

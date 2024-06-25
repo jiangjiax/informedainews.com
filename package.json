@@ -14,6 +14,7 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
+    "@cloudflare/workers-types": "^4.20240620.0",
     "@docusaurus/core": "3.4.0",
     "@docusaurus/preset-classic": "3.4.0",
     "@hcaptcha/react-hcaptcha": "^1.10.1",
@@ -29,6 +30,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-slick": "^0.30.2",
+    "sweetalert2": "^11.12.0",
     "tailwindcss": "^3.4.3",
     "wrangler": "^0.0.0-cbebb049"
   },
