@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title6">World News Daily</Translate>,
+    date: '2024-06-27',
+    href: '/docs/world-news-daily/1-2024-06-27',
+    description: (
+      <>
+        <Translate id="Latest.description6">President Biden Pardons Thousands of US Veterans Convicted Under Outdated Gay Sex Ban</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
     date: '2024-06-26',
     href: '/docs/world-news-daily/1-2024-06-26',
@@ -80,16 +90,6 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-06-21',
-    href: '/docs/world-news-daily/1-2024-06-21',
-    description: (
-      <>
-        <Translate id="Latest.description6">Supreme Court to Announce Key Decisions on Trump Immunity and Abortion Rights</Translate>
-      </>
-    ),
-  }
 ];
 
 function Feature({ title, href, description, date }) {
