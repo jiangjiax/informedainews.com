@@ -1,0 +1,54 @@
+---
+title: "Understanding SOLID Principles in Java Programming"
+description: "Understanding SOLID Principles in Java Programming"
+
+---
+
+
+:::info
+
+"Informed AI News" is an publications aggregation platform, ensuring you only gain the most valuable information, to eliminate information asymmetry and break through the limits of information cocoons.  [Find out more >>](/)
+
+:::
+
+# Understanding SOLID Principles in Java Programming
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+	defaultValue="summary"
+	values={[
+	{label: 'summary', value: 'summary'},
+	{label: 'score', value: 'score'},
+]}>
+<TabItem value="summary">
+
+
+SOLID principles guide object-oriented programming, ensuring code efficiency and maintainability. Each letter represents a key principle:
+
+**Single Responsibility**: A class should have one, and only one, reason to change. For example, an `Employee` class that handles emails violates this by deviating from its primary responsibilities.
+
+**Open/Closed**: Software entities should be open to extension but closed to modification. A class like `AreaCalculator` that requires changes for new shapes contradicts this. Instead, an interface like `IAreaCalculator` should be used for extensibility.
+
+**Liskov Substitution**: Subtypes must be interchangeable with their base types. A `Bird` class with subclasses `Eagle` and `Ostrich` fails if `Ostrich` cannot truly fly. Separating flying and non-flying birds resolves this issue.
+
+**Interface Segregation**: Clients should not be forced to depend on interfaces they do not use. An interface like `IShapeAreaCalculator` that requires `Square` to implement volume methods is inefficient. Segregating interfaces according to specific needs improves this.
+
+**Dependency Inversion**: High-level modules should not depend on low-level modules; both should depend on abstractions. An `Employee` class directly using `EmailNotification` is inflexible. By depending on a `Notification` interface, flexibility is ensured.
+
+Adhering to SOLID principles results in software that is robust, adaptable, and easy to maintain.
+</TabItem>
+<TabItem value="score">
+	| Scores     | Value   | Explanation |
+	| -------- | ------- | ------- |
+	| Objectivity  | 6    | Content provides a balanced overview of SOLID principles without bias.    |
+	| Social Impact | 2     | Content targets a niche audience of programmers and tech enthusiasts.    |
+	| Credibility    | 5    | Based on established programming principles with clear examples.    |
+	| Potential    | 4    | Could influence coding practices but limited to tech community.    |
+	| Practicality    | 5    | Directly applicable to improving software development practices.    |
+	| Entertainment Value    | 2    | Primarily informative, less entertaining for general audience.    |
+</TabItem>
+</Tabs>
+
+[Full article>>](https://www.freecodecamp.org/news/introduction-to-solid-principles/)
