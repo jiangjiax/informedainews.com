@@ -11,6 +11,26 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title8">World News Daily</Translate>,
+    date: '2024-07-01',
+    href: '/docs/world-news-daily/1-2024-07-01',
+    description: (
+      <>
+        <Translate id="Latest.description8">US Secret Services Campaign Against Nord Stream 2 in Germany</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title1">AI Enthusiast Weekly</Translate>,
+    date: '2024-07-01',
+    href: '/docs/ai-enthusiast-weekly/3-2024-07-01',
+    description: (
+      <>
+        <Translate id="Latest.description1">Dify: Revolutionizing AI with Rapid Growth and Global Impact</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
     date: '2024-06-30',
     href: '/docs/world-news-daily/1-2024-06-30',
@@ -67,26 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description7">International Criminal Court Issues Arrest Warrants for Russian Officials Over War Crimes</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-06-25',
-    href: '/docs/world-news-daily/1-2024-06-25',
-    description: (
-      <>
-        <Translate id="Latest.description8">Julian Assange Pleads Guilty in US Espionage Case, Potentially Ending Imprisonment</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title1">AI Enthusiast Weekly</Translate>,
-    date: '2024-06-24',
-    href: '/docs/ai-enthusiast-weekly/3-2024-06-24',
-    description: (
-      <>
-        <Translate id="Latest.description1">China Leads in Developing IEEE Financial Language Model Standard</Translate>
       </>
     ),
   },
