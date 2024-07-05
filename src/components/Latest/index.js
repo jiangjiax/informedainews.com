@@ -11,6 +11,26 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title3">World News Daily</Translate>,
+    date: '2024-07-05',
+    href: '/docs/world-news-daily/1-2024-07-05',
+    description: (
+      <>
+        <Translate id="Latest.description3">Solving the Ozone Hole: Science, Policy, and Global Action</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title4">Tech Enthusiast Weekly</Translate>,
+    date: '2024-07-05',
+    href: '/docs/tech-enthusiast-weekly/2-2024-07-05',
+    description: (
+      <>
+        <Translate id="Latest.description4">Motiff: AI-Enhanced UI Design Tool for Professional Designers</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
     date: '2024-07-04',
     href: '/docs/world-news-daily/1-2024-07-04',
@@ -69,27 +89,7 @@ const FeatureList = [
         <Translate id="Latest.description2">China Strengthens State Control Over Rare Earth Resources</Translate>
       </>
     ),
-  },
-  {
-    title: <Translate id="Latest.title3">World News Daily</Translate>,
-    date: '2024-06-29',
-    href: '/docs/world-news-daily/1-2024-06-29',
-    description: (
-      <>
-        <Translate id="Latest.description3">Uvalde Police Officers Indicted for Slow Response in School Shooting</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title4">Tech Enthusiast Weekly</Translate>,
-    date: '2024-06-28',
-    href: '/docs/tech-enthusiast-weekly/2-2024-06-28',
-    description: (
-      <>
-        <Translate id="Latest.description4">ToucanTTS: Pioneering Speech Synthesis Across 7,000 Languages</Translate>
-      </>
-    ),
-  },
+  }
 ];
 
 function Feature({ title, href, description, date }) {
