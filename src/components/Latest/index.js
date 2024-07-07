@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title1">World News Daily</Translate>,
+    date: '2024-07-07',
+    href: '/docs/ai-enthusiast-weekly/1-2024-07-07',
+    description: (
+      <>
+        <Translate id="Latest.description1">Ozone Layer Recovery Ahead of Schedule Due to Global Efforts</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
     date: '2024-07-06',
     href: '/docs/world-news-daily/1-2024-07-06',
@@ -79,17 +89,7 @@ const FeatureList = [
         <Translate id="Latest.description8">US Secret Services Campaign Against Nord Stream 2 in Germany</Translate>
       </>
     ),
-  },
-  {
-    title: <Translate id="Latest.title1">AI Enthusiast Weekly</Translate>,
-    date: '2024-07-01',
-    href: '/docs/ai-enthusiast-weekly/3-2024-07-01',
-    description: (
-      <>
-        <Translate id="Latest.description1">Dify: Revolutionizing AI with Rapid Growth and Global Impact</Translate>
-      </>
-    ),
-  },
+  }
 ];
 
 function Feature({ title, href, description, date }) {
