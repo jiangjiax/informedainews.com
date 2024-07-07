@@ -13,7 +13,7 @@ const FeatureList = [
   {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
     date: '2024-07-07',
-    href: '/docs/ai-enthusiast-weekly/1-2024-07-07',
+    href: '/docs/world-news-daily/1-2024-07-07',
     description: (
       <>
         <Translate id="Latest.description1">Ozone Layer Recovery Ahead of Schedule Due to Global Efforts</Translate>
