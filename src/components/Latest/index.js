@@ -12,8 +12,8 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-07-11',
-    href: '/docs/world-news-daily/1-2024-07-11',
+    date: '2024-07-10',
+    href: '/docs/world-news-daily/1-2024-07-10',
     description: (
       <>
         <Translate id="Latest.description6">NATO Leaders Gather in Washington to Celebrate 75 Years and Discuss Ukraine Aid</Translate>
