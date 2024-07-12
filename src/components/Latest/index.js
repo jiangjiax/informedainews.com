@@ -11,6 +11,26 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title3">World News Daily</Translate>,
+    date: '2024-07-12',
+    href: '/docs/world-news-daily/1-2024-07-12',
+    description: (
+      <>
+        <Translate id="Latest.description3">Helsing Raises $487M for AI Defense Expansion in Baltic Region</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title4">Tech Enthusiast Weekly</Translate>,
+    date: '2024-07-05',
+    href: '/docs/tech-enthusiast-weekly/2-2024-07-12',
+    description: (
+      <>
+        <Translate id="Latest.description4">Introducing Crawlee for Python: A Reliable Web Scraping and Browser Automation Tool</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
     date: '2024-07-11',
     href: '/docs/world-news-daily/1-2024-07-11',
@@ -67,26 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description2">Labour Party Wins Big in UK Election, Set to Lead Major Changes</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title3">World News Daily</Translate>,
-    date: '2024-07-05',
-    href: '/docs/world-news-daily/1-2024-07-05',
-    description: (
-      <>
-        <Translate id="Latest.description3">Solving the Ozone Hole: Science, Policy, and Global Action</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title4">Tech Enthusiast Weekly</Translate>,
-    date: '2024-07-05',
-    href: '/docs/tech-enthusiast-weekly/2-2024-07-05',
-    description: (
-      <>
-        <Translate id="Latest.description4">Motiff: AI-Enhanced UI Design Tool for Professional Designers</Translate>
       </>
     ),
   },
