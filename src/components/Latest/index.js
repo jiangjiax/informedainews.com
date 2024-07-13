@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title2">World News Daily</Translate>,
+    date: '2024-07-13',
+    href: '/docs/world-news-daily/1-2024-07-13',
+    description: (
+      <>
+        <Translate id="Latest.description2">Germany to Phase Out Huawei and ZTE from 5G Networks</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title3">World News Daily</Translate>,
     date: '2024-07-12',
     href: '/docs/world-news-daily/1-2024-07-12',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description1">Ozone Layer Recovery Ahead of Schedule Due to Global Efforts</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-07-06',
-    href: '/docs/world-news-daily/1-2024-07-06',
-    description: (
-      <>
-        <Translate id="Latest.description2">Labour Party Wins Big in UK Election, Set to Lead Major Changes</Translate>
       </>
     ),
   },
