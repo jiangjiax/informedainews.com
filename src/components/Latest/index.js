@@ -12,6 +12,16 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
+    date: '2024-07-23',
+    href: '/docs/world-news-daily/1-2024-07-23',
+    description: (
+      <>
+        <Translate id="Latest.description5">Biden administration announces $4.3 billion in funding for local climate projects.</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title5">World News Daily</Translate>,
     date: '2024-07-22',
     href: '/docs/world-news-daily/1-2024-07-22',
     description: (
@@ -87,16 +97,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description4">Introducing Crawlee for Python: A Reliable Web Scraping and Browser Automation Tool</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-07-11',
-    href: '/docs/world-news-daily/1-2024-07-11',
-    description: (
-      <>
-        <Translate id="Latest.description5">Nato Pledges Support for Ukraine's Membership</Translate>
       </>
     ),
   },
