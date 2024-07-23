@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title5">World News Daily</Translate>,
+    date: '2024-07-22',
+    href: '/docs/world-news-daily/1-2024-07-22',
+    description: (
+      <>
+        <Translate id="Latest.description5">Biden Withdraws from 2024 Presidential Election: Shockwaves in American Politics</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
     date: '2024-07-21',
     href: '/docs/world-news-daily/1-2024-07-21',
