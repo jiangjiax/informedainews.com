@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title6">World News Daily</Translate>,
+    date: '2024-07-30',
+    href: '/docs/world-news-daily/1-2024-07-30',
+    description: (
+      <>
+        <Translate id="Latest.description6">BRICS Nations Represent 35% of Global GDP, Challenging Traditional Economic Paradigms</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
     date: '2024-07-19',
     href: '/docs/world-news-daily/1-2024-07-19',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description5">Biden administration announces $4.3 billion in funding for local climate projects.</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-07-21',
-    href: '/docs/world-news-daily/1-2024-07-21',
-    description: (
-      <>
-        <Translate id="Latest.description6">UN Court Rules Israeli Occupation of Palestinian Territories Illegal</Translate>
       </>
     ),
   },
