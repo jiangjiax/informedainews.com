@@ -22,8 +22,8 @@ const FeatureList = [
   },
   {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-07-19',
-    href: '/docs/world-news-daily/1-2024-07-19',
+    date: '2024-07-29',
+    href: '/docs/world-news-daily/1-2024-07-29',
     description: (
       <>
         <Translate id="Latest.description7">World News Daily(2024-07-29) : Japan and U.S. Strengthen Defense Ties Amid Global Threats</Translate>
