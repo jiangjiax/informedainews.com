@@ -16,7 +16,7 @@ const FeatureList = [
     href: '/docs/world-news-daily/1-2024-08-01',
     description: (
       <>
-        <Translate id="Latest.description5">Biden administration announces $4.3 billion in funding for local climate projects.</Translate>
+        <Translate id="Latest.description5">China Advances Legislation to Boost Private Sector Involvement in National Strategies</Translate>
       </>
     ),
   },
