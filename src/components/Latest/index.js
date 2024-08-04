@@ -12,11 +12,11 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-07-26',
-    href: '/docs/world-news-daily/1-2024-07-26',
+    date: '2024-08-04',
+    href: '/docs/world-news-daily/1-2024-08-04',
     description: (
       <>
-        <Translate id="Latest.description2">UAE Involvement in Sudan Civil War Revealed by Leaked Documents</Translate>
+        <Translate id="Latest.description2">U.S. Sues TikTok for Violating Children's Privacy</Translate>
       </>
     ),
   },
