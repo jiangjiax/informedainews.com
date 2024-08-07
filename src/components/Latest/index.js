@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title7">World News Daily</Translate>,
+    date: '2024-08-07',
+    href: '/docs/world-news-daily/1-2024-08-07',
+    description: (
+      <>
+        <Translate id="Latest.description7">Massive Data Breach at Background Check Firm NPD Affects 29 Billion Records</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title8">World News Daily</Translate>,
     date: '2024-08-07',
     href: '/docs/world-news-daily/1-2024-08-07',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description6">BRICS Nations Represent 35% of Global GDP, Challenging Traditional Economic Paradigms</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-07-29',
-    href: '/docs/world-news-daily/1-2024-07-29',
-    description: (
-      <>
-        <Translate id="Latest.description7">World News Daily(2024-07-29) : Japan and U.S. Strengthen Defense Ties Amid Global Threats</Translate>
       </>
     ),
   },
