@@ -12,8 +12,8 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-07-28',
-    href: '/docs/world-news-daily/1-2024-07-28',
+    date: '2024-08-07',
+    href: '/docs/world-news-daily/1-2024-08-07',
     description: (
       <>
         <Translate id="Latest.description8">Global Stock Market Crash: Causes and Consequences</Translate>
