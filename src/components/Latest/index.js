@@ -12,8 +12,8 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-07-30',
-    href: '/docs/world-news-daily/1-2024-07-30',
+    date: '2024-08-08',
+    href: '/docs/world-news-daily/1-2024-08-08',
     description: (
       <>
         <Translate id="Latest.description6">Nobel Laureate Muhammad Yunus to Lead Bangladesh Interim Government</Translate>
