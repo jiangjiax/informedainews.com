@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title6">World News Daily</Translate>,
+    date: '2024-07-30',
+    href: '/docs/world-news-daily/1-2024-07-30',
+    description: (
+      <>
+        <Translate id="Latest.description6">Nobel Laureate Muhammad Yunus to Lead Bangladesh Interim Government</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title7">World News Daily</Translate>,
     date: '2024-08-07',
     href: '/docs/world-news-daily/1-2024-08-07',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description5">China Advances Legislation to Boost Private Sector Involvement in National Strategies</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-07-30',
-    href: '/docs/world-news-daily/1-2024-07-30',
-    description: (
-      <>
-        <Translate id="Latest.description6">BRICS Nations Represent 35% of Global GDP, Challenging Traditional Economic Paradigms</Translate>
       </>
     ),
   },
