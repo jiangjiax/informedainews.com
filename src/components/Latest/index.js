@@ -12,8 +12,8 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-08-01',
-    href: '/docs/world-news-daily/1-2024-08-01',
+    date: '2024-08-09',
+    href: '/docs/world-news-daily/1-2024-08-09',
     description: (
       <>
         <Translate id="Latest.description5">Ukraine Admits to Kursk Incursion, Citing Russian Aggression</Translate>
