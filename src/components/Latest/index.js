@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title5">World News Daily</Translate>,
+    date: '2024-08-01',
+    href: '/docs/world-news-daily/1-2024-08-01',
+    description: (
+      <>
+        <Translate id="Latest.description5">Ukraine Admits to Kursk Incursion, Citing Russian Aggression</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
     date: '2024-08-08',
     href: '/docs/world-news-daily/1-2024-08-08',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description4">The EU's Artificial Intelligence Act officially takes effect: the world's first comprehensive regulatory legislation</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-08-01',
-    href: '/docs/world-news-daily/1-2024-08-01',
-    description: (
-      <>
-        <Translate id="Latest.description5">China Advances Legislation to Boost Private Sector Involvement in National Strategies</Translate>
       </>
     ),
   },
