@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title8">World News Daily</Translate>,
+    date: '2024-08-07',
+    href: '/docs/world-news-daily/1-2024-08-07',
+    description: (
+      <>
+        <Translate id="Latest.description8">US Considers Breaking Up Google or Mandating Data Sharing</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
     date: '2024-08-13',
     href: '/docs/world-news-daily/1-2024-08-13',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description7">Massive Data Breach at Background Check Firm NPD Affects 29 Billion Records</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-08-07',
-    href: '/docs/world-news-daily/1-2024-08-07',
-    description: (
-      <>
-        <Translate id="Latest.description8">Global Stock Market Crash: Causes and Consequences</Translate>
       </>
     ),
   },
