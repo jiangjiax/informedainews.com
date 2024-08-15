@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title7">World News Daily</Translate>,
+    date: '2024-08-15',
+    href: '/docs/world-news-daily/1-2024-08-15',
+    description: (
+      <>
+        <Translate id="Latest.description7">Japan's PM Kishida to Step Down in September</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title8">World News Daily</Translate>,
     date: '2024-08-07',
     href: '/docs/world-news-daily/1-2024-08-07',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description6">Nobel Laureate Muhammad Yunus to Lead Bangladesh Interim Government</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-08-07',
-    href: '/docs/world-news-daily/1-2024-08-07',
-    description: (
-      <>
-        <Translate id="Latest.description7">Massive Data Breach at Background Check Firm NPD Affects 29 Billion Records</Translate>
       </>
     ),
   },
