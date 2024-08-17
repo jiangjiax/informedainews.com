@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title5">World News Daily</Translate>,
+    date: '2024-08-17',
+    href: '/docs/world-news-daily/1-2024-08-17',
+    description: (
+      <>
+        <Translate id="Latest.description5">India to Hold First Regional Elections in Jammu and Kashmir Since Revoking Autonomy</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
     date: '2024-08-16',
     href: '/docs/world-news-daily/1-2024-08-16',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description4">U.S. and States File Antitrust Lawsuit Against Google</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-08-09',
-    href: '/docs/world-news-daily/1-2024-08-09',
-    description: (
-      <>
-        <Translate id="Latest.description5">Ukraine Admits to Kursk Incursion, Citing Russian Aggression</Translate>
       </>
     ),
   },
