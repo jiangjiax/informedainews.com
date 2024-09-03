@@ -11,9 +11,29 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title4">World News Daily</Translate>,
+    date: '2024-09-03',
+    href: '/docs/world-news-daily/1-2024-09-03',
+    description: (
+      <>
+        <Translate id="Latest.description4">Trial Begins for Man Accused of Enlisting Strangers to Rape Drugged Wife</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title5">World News Daily</Translate>,
+    date: '2024-09-02',
+    href: '/docs/world-news-daily/1-2024-08-02',
+    description: (
+      <>
+        <Translate id="Latest.description5">Year-Long Anti-Corruption Drive in China's Pharmaceutical Industry</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title6">World News Daily</Translate>,
-    date: '2024-08-24',
-    href: '/docs/world-news-daily/1-2024-08-24',
+    date: '2024-09-01',
+    href: '/docs/world-news-daily/1-2024-09-01',
     description: (
       <>
         <Translate id="Latest.description6">North Korean IT Spies: A Threat to Global Cybersecurity</Translate>
@@ -77,16 +97,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description4">Ex-FBI Informant's Book Warns of Far-Right Violence</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title5">World News Daily</Translate>,
-    date: '2024-08-25',
-    href: '/docs/world-news-daily/1-2024-08-25',
-    description: (
-      <>
-        <Translate id="Latest.description5">Tuíre Kayapó: Champion of Indigenous Rights in the Amazon</Translate>
       </>
     ),
   },
