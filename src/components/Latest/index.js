@@ -12,6 +12,16 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
+    date: '2024-09-04',
+    href: '/docs/world-news-daily/1-2024-09-04',
+    description: (
+      <>
+        <Translate id="Latest.description3">Children Win Climate Lawsuit in South Korea</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title4">World News Daily</Translate>,
     date: '2024-09-03',
     href: '/docs/world-news-daily/1-2024-09-03',
     description: (
@@ -77,26 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description2">Chinese Hackers Target US Internet Firms via Startup Vulnerability</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title3">World News Daily</Translate>,
-    date: '2024-08-27',
-    href: '/docs/world-news-daily/1-2024-08-27',
-    description: (
-      <>
-        <Translate id="Latest.description3">IAEA Warns of Deteriorating Safety at Zaporizhzhia Nuclear Plant</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title4">World News Daily</Translate>,
-    date: '2024-08-26',
-    href: '/docs/world-news-daily/1-2024-08-26',
-    description: (
-      <>
-        <Translate id="Latest.description4">Ex-FBI Informant's Book Warns of Far-Right Violence</Translate>
       </>
     ),
   },
