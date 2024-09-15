@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title7">World News Daily</Translate>,
+    date: '2024-09-15',
+    href: '/docs/world-news-daily/1-2024-09-15',
+    description: (
+      <>
+        <Translate id="Latest.description7">Hunan Dongkou County Shantytown Renovation Project Fraud Case: 88 Public Officials Held Accountable</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title8">World News Daily</Translate>,
     date: '2024-09-13',
     href: '/docs/world-news-daily/1-2024-09-13',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description6">North Korean IT Spies: A Threat to Global Cybersecurity</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title7">World News Daily</Translate>,
-    date: '2024-08-31',
-    href: '/docs/world-news-daily/1-2024-08-31',
-    description: (
-      <>
-        <Translate id="Latest.description7">Israel-Hezbollah Conflict Escalates Amid Gaza Truce Talks</Translate>
       </>
     ),
   },
