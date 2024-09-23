@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title2">World News Daily</Translate>,
+    date: '2024-09-23',
+    href: '/docs/world-news-daily/1-2024-09-23',
+    description: (
+      <>
+        <Translate id="Latest.description2">Leftist Outsider Dissanayake Wins Sri Lankan Presidential Election</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
     date: '2024-09-21',
     href: '/docs/world-news-daily/1-2024-09-21',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description1">US Confirms Russia Received Ballistic Missiles from Iran, Prompting New Sanctions</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title2">World News Daily</Translate>,
-    date: '2024-09-07',
-    href: '/docs/world-news-daily/1-2024-09-07',
-    description: (
-      <>
-        <Translate id="Latest.description2">OpenAI CEO Leads Multi-Billion Dollar AI Infrastructure Initiative</Translate>
       </>
     ),
   },
