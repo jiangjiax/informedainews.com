@@ -11,6 +11,16 @@ const LatestHref = translate({
 
 const FeatureList = [
   {
+    title: <Translate id="Latest.title8">World News Daily</Translate>,
+    date: '2024-09-25',
+    href: '/docs/world-news-daily/1-2024-09-25',
+    description: (
+      <>
+        <Translate id="Latest.description8">China Considers Ending Collective Punishment for Relatives of Criminals</Translate>
+      </>
+    ),
+  },
+  {
     title: <Translate id="Latest.title1">World News Daily</Translate>,
     date: '2024-09-24',
     href: '/docs/world-news-daily/1-2024-09-24',
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description7">Hunan Dongkou County Shantytown Renovation Project Fraud Case: 88 Public Officials Held Accountable</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title8">World News Daily</Translate>,
-    date: '2024-09-13',
-    href: '/docs/world-news-daily/1-2024-09-13',
-    description: (
-      <>
-        <Translate id="Latest.description8">The Standing Committee of the National People's Congress decides to gradually delay the statutory retirement age</Translate>
       </>
     ),
   },
