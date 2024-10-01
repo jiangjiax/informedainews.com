@@ -12,6 +12,16 @@ const LatestHref = translate({
 const FeatureList = [
   {
     title: <Translate id="Latest.title4">World News Daily</Translate>,
+    date: '2024-10-01',
+    href: '/docs/world-news-daily/1-2024-10-01',
+    description: (
+      <>
+        <Translate id="Latest.description3">Far-Right Freedom Party Wins Austrian Election</Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate id="Latest.title4">World News Daily</Translate>,
     date: '2024-09-30',
     href: '/docs/world-news-daily/1-2024-09-30',
     description: (
@@ -77,16 +87,6 @@ const FeatureList = [
     description: (
       <>
         <Translate id="Latest.description2">Leftist Outsider Dissanayake Wins Sri Lankan Presidential Election</Translate>
-      </>
-    ),
-  },
-  {
-    title: <Translate id="Latest.title4">World News Daily</Translate>,
-    date: '2024-09-21',
-    href: '/docs/world-news-daily/1-2024-09-21',
-    description: (
-      <>
-        <Translate id="Latest.description3">Sri Lanka's Presidential Election: A Nation at a Crossroads</Translate>
       </>
     ),
   },
